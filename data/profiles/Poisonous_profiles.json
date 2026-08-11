@@ -1,0 +1,1073 @@
+[
+  {
+    "common_name": "African milk bush",
+    "scientific_name": "Synadenium grantii",
+    "toxicity": "Contains irritant latex that can cause skin and eye inflammation.",
+    "soil_preference": "Well-drained sandy or loamy soil.",
+    "medicinal_uses": "Used in traditional medicine for warts and skin issues.",
+    "properties": "Irritant latex, toxic if ingested.",
+    "cure_precaution": "Wash affected area immediately; seek medical help if ingested or in eyes."
+  },
+  {
+    "common_name": "Angel's trumpet",
+    "scientific_name": "Brugmansia spp.",
+    "toxicity": "Contains tropane alkaloids (scopolamine, atropine); all parts are toxic.",
+    "soil_preference": "Fertile, well-drained soil with regular watering.",
+    "medicinal_uses": "Historically used to treat asthma and muscle pain (not recommended).",
+    "properties": "Hallucinogenic, anticholinergic.",
+    "cure_precaution": "Seek immediate medical care; treatment is supportive."
+  },
+  {
+    "common_name": "Arrowgrass",
+    "scientific_name": "Triglochin spp.",
+    "toxicity": "Releases cyanogenic compounds when digested, especially in grazing animals.",
+    "soil_preference": "Wet, marshy areas and saline soils.",
+    "medicinal_uses": "No known safe medicinal uses.",
+    "properties": "Cyanogenic potential.",
+    "cure_precaution": "Avoid ingestion; seek veterinary care for animals."
+  },
+  {
+    "common_name": "Autumn crocus",
+    "scientific_name": "Colchicum autumnale",
+    "toxicity": "Highly toxic; contains colchicine which disrupts cell division.",
+    "soil_preference": "Moist, well-drained soils in full sun or part shade.",
+    "medicinal_uses": "Colchicine used to treat gout (in very controlled doses).",
+    "properties": "Anti-inflammatory, cytotoxic.",
+    "cure_precaution": "Medical emergency; no specific antidote, symptomatic treatment only."
+  },
+  {
+    "common_name": "Belladonna lily",
+    "scientific_name": "Amaryllis belladonna",
+    "toxicity": "Contains lycorine; can cause nausea, vomiting, and diarrhea.",
+    "soil_preference": "Well-drained sandy soil, full sun.",
+    "medicinal_uses": "Occasional use in traditional remedies; mostly ornamental.",
+    "properties": "Toxic alkaloids (lycorine).",
+    "cure_precaution": "Gastrointestinal decontamination if ingested; supportive care."
+  },
+  {
+    "common_name": "Bird of paradise",
+    "scientific_name": "Strelitzia reginae",
+    "toxicity": "Mildly toxic; ingestion causes nausea, drowsiness, and vomiting.",
+    "soil_preference": "Rich, well-drained soil in full sun.",
+    "medicinal_uses": "None known.",
+    "properties": "Mild gastrointestinal irritants.",
+    "cure_precaution": "Flush mouth; give fluids; consult a doctor if symptoms persist."
+  },
+  {
+    "common_name": "Bitter nightshade",
+    "scientific_name": "Solanum dulcamara",
+    "toxicity": "Contains solanine and other glycoalkaloids; can cause GI and neurological issues.",
+    "soil_preference": "Moist, slightly acidic soil in shade or sun.",
+    "medicinal_uses": "Used in folk medicine for skin and respiratory conditions.",
+    "properties": "Anti-inflammatory (in small doses), toxic in large doses.",
+    "cure_precaution": "Seek medical help; treat symptoms."
+  },
+  {
+    "common_name": "Bittersweet",
+    "scientific_name": "Solanum dulcamara",
+    "toxicity": "Same as bitter nightshade; toxic berries and leaves.",
+    "soil_preference": "Damp, fertile soils.",
+    "medicinal_uses": "Traditional use for dermatitis and rheumatism.",
+    "properties": "Glycoalkaloids (solanine).",
+    "cure_precaution": "Medical attention required if ingested."
+  },
+  {
+    "common_name": "Blighia sapida",
+    "scientific_name": "Blighia sapida",
+    "toxicity": "Unripe fruit contains hypoglycin A, which can cause Jamaican vomiting sickness.",
+    "soil_preference": "Fertile, well-drained tropical soils.",
+    "medicinal_uses": "Cooked arils are edible; used in cuisine. Other parts not used medicinally.",
+    "properties": "Hypoglycin toxicity in unripe fruit.",
+    "cure_precaution": "Only consume fully ripe arils; medical support required for poisoning."
+  },
+  {
+    "common_name": "Bloodroot",
+    "scientific_name": "Sanguinaria canadensis",
+    "toxicity": "Contains sanguinarine; causes vomiting, fainting, and respiratory failure in large doses.",
+    "soil_preference": "Moist, rich woodland soil.",
+    "medicinal_uses": "Used in traditional medicine for skin conditions and dental care.",
+    "properties": "Antimicrobial, escharotic (destroys skin tissue).",
+    "cure_precaution": "Avoid ingestion or skin use; seek medical attention."
+  },
+  {
+    "common_name": "Blue cohosh",
+    "scientific_name": "Caulophyllum thalictroides",
+    "toxicity": "May cause birth defects and miscarriage; contains toxic alkaloids.",
+    "soil_preference": "Rich, moist woodland soils.",
+    "medicinal_uses": "Used traditionally for menstrual issues and labor induction (not recommended).",
+    "properties": "Uterine stimulant, emmenagogue.",
+    "cure_precaution": "Avoid during pregnancy; seek care for adverse reactions."
+  },
+  {
+    "common_name": "Boxwood",
+    "scientific_name": "Buxus sempervirens",
+    "toxicity": "Contains alkaloids like buxine; toxic to humans and animals.",
+    "soil_preference": "Well-drained soil; tolerates drought.",
+    "medicinal_uses": "Rarely used medicinally due to toxicity.",
+    "properties": "Toxic alkaloids.",
+    "cure_precaution": "Gastrointestinal symptoms treated supportively; call poison control."
+  },
+  {
+    "common_name": "Buckeye",
+    "scientific_name": "Aesculus spp.",
+    "toxicity": "Contains aesculin and saponins; causes vomiting, diarrhea, and paralysis.",
+    "soil_preference": "Moist, well-drained soil.",
+    "medicinal_uses": "Some traditional use for varicose veins; mostly avoided now.",
+    "properties": "Neurotoxic, anticoagulant.",
+    "cure_precaution": "Seek immediate care; no antidote."
+  },
+  {
+    "common_name": "Buxus",
+    "scientific_name": "Buxus sempervirens",
+    "toxicity": "Same as Boxwood; buxine is toxic.",
+    "soil_preference": "Well-drained soils, partial shade.",
+    "medicinal_uses": "Rare; historically used as a tonic.",
+    "properties": "Alkaloid-based toxicity.",
+    "cure_precaution": "Avoid ingestion; call poison control for symptoms."
+  },
+  {
+    "common_name": "Caladium",
+    "scientific_name": "Caladium spp.",
+    "toxicity": "Contains calcium oxalate crystals; irritates mouth and throat.",
+    "soil_preference": "Moist, well-drained soil in tropical climates.",
+    "medicinal_uses": "None; purely ornamental.",
+    "properties": "Mechanical irritant.",
+    "cure_precaution": "Rinse mouth and seek care if swelling or breathing issues occur."
+  },
+  {
+    "common_name": "Camphor tree",
+    "scientific_name": "Cinnamomum camphora",
+    "toxicity": "Camphor is toxic in large doses; ingestion can cause seizures and respiratory issues.",
+    "soil_preference": "Well-drained, loamy soil with full sun.",
+    "medicinal_uses": "Camphor used in topical pain relievers, decongestants.",
+    "properties": "Antimicrobial, stimulant, neurotoxic in high doses.",
+    "cure_precaution": "Avoid ingestion; seek emergency care for camphor poisoning."
+  },
+  {
+    "common_name": "Cardboard palm",
+    "scientific_name": "Zamia furfuracea",
+    "toxicity": "All parts are toxic, especially seeds; causes liver and neurological damage.",
+    "soil_preference": "Sandy, well-drained soil.",
+    "medicinal_uses": "None; purely ornamental.",
+    "properties": "Cycad toxins, neurotoxic.",
+    "cure_precaution": "Immediate medical care recommended for ingestion."
+  },
+  {
+    "common_name": "Carolina jessamine",
+    "scientific_name": "Gelsemium sempervirens",
+    "toxicity": "Highly toxic; contains gelsemine, affecting the nervous system.",
+    "soil_preference": "Well-drained soils; thrives in sun or partial shade.",
+    "medicinal_uses": "Historically used for pain and anxiety, but now avoided due to toxicity.",
+    "properties": "Neurotoxic alkaloids.",
+    "cure_precaution": "Seek emergency care; fatal in large amounts."
+  },
+  {
+    "common_name": "Castor bean",
+    "scientific_name": "Ricinus communis",
+    "toxicity": "Contains ricin, a highly toxic protein; even one seed can be fatal.",
+    "soil_preference": "Well-drained, fertile soil.",
+    "medicinal_uses": "Castor oil used as a laxative (after detoxification).",
+    "properties": "Laxative, anti-inflammatory, highly toxic.",
+    "cure_precaution": "Seek immediate medical attention; no known antidote for ricin."
+  },
+  {
+    "common_name": "Cerbera odollam",
+    "scientific_name": "Cerbera odollam",
+    "toxicity": "Contains cerberin, a cardiac glycoside; extremely toxic.",
+    "soil_preference": "Grows in coastal and swampy areas.",
+    "medicinal_uses": "Used traditionally as a poison; no safe medicinal use.",
+    "properties": "Cardiac toxic alkaloids.",
+    "cure_precaution": "Emergency care needed; monitor and treat heart function."
+  },
+  {
+    "common_name": "Cherry laurel",
+    "scientific_name": "Prunus laurocerasus",
+    "toxicity": "Leaves and seeds contain cyanogenic glycosides that release cyanide.",
+    "soil_preference": "Well-drained soils, full sun to partial shade.",
+    "medicinal_uses": "None; toxic parts make it unsafe for use.",
+    "properties": "Cyanogenic potential.",
+    "cure_precaution": "Avoid ingestion; hospital care necessary for poisoning."
+  },
+  {
+    "common_name": "Chinaberry tree",
+    "scientific_name": "Melia azedarach",
+    "toxicity": "Toxic alkaloids in berries and leaves; ingestion can be fatal.",
+    "soil_preference": "Well-drained soils; drought-tolerant.",
+    "medicinal_uses": "Traditional use for intestinal worms and malaria (not recommended).",
+    "properties": "Neurotoxic and hepatotoxic compounds.",
+    "cure_precaution": "Seek emergency medical help for ingestion."
+  },
+  {
+    "common_name": "Chokecherry",
+    "scientific_name": "Prunus virginiana",
+    "toxicity": "Contains cyanogenic glycosides; seeds and leaves are poisonous.",
+    "soil_preference": "Moist, well-drained soil.",
+    "medicinal_uses": "Used in herbal medicine for coughs (fruit only, and carefully).",
+    "properties": "Cyanide-releasing potential.",
+    "cure_precaution": "Avoid unripe fruit and seeds; seek medical care for poisoning."
+  },
+  {
+    "common_name": "Christmas rose",
+    "scientific_name": "Helleborus niger",
+    "toxicity": "All parts are toxic; can cause vomiting, diarrhea, and heart problems.",
+    "soil_preference": "Moist, well-drained soils; partial shade.",
+    "medicinal_uses": "Used in ancient medicine for insanity and dropsy; not used today.",
+    "properties": "Cardiac glycosides, saponins.",
+    "cure_precaution": "Supportive care in hospital; no specific antidote."
+  },
+  {
+    "common_name": "Climbing nightshade",
+    "scientific_name": "Solanum dulcamara",
+    "toxicity": "Contains solanine; affects GI and nervous system.",
+    "soil_preference": "Moist, nutrient-rich soil.",
+    "medicinal_uses": "Used in traditional medicine for skin and joint conditions.",
+    "properties": "Toxic glycoalkaloids.",
+    "cure_precaution": "Seek care for symptoms; manage nausea, seizures supportively."
+  },
+  {
+    "common_name": "Coral tree",
+    "scientific_name": "Erythrina spp.",
+    "toxicity": "Seeds and bark contain alkaloids; neurotoxic and sedative.",
+    "soil_preference": "Fertile, well-drained soil; tropical climate.",
+    "medicinal_uses": "Used traditionally as a sedative and anticonvulsant.",
+    "properties": "Erythrinine and other alkaloids.",
+    "cure_precaution": "Supportive care required for poisoning."
+  },
+  {
+    "common_name": "Cotoneaster",
+    "scientific_name": "Cotoneaster spp.",
+    "toxicity": "Mildly toxic; large quantities of berries may cause GI upset.",
+    "soil_preference": "Well-drained soil, drought-tolerant.",
+    "medicinal_uses": "None.",
+    "properties": "Low-level cyanogenic compounds.",
+    "cure_precaution": "Mild symptoms may not need treatment; monitor for vomiting or diarrhea."
+  },
+  {
+    "common_name": "Crown flower",
+    "scientific_name": "Calotropis gigantea",
+    "toxicity": "Milky sap is toxic; can irritate skin and eyes, and affect heart function.",
+    "soil_preference": "Sandy, well-drained soil; grows in dry regions.",
+    "medicinal_uses": "Used in Ayurveda for skin diseases and asthma (with caution).",
+    "properties": "Cardiac glycosides, latex.",
+    "cure_precaution": "Avoid exposure to sap; wash thoroughly and seek help for ingestion."
+  },
+  {
+    "common_name": "Cyclamen",
+    "scientific_name": "Cyclamen spp.",
+    "toxicity": "Tuber is most toxic; causes vomiting, diarrhea, and seizures.",
+    "soil_preference": "Well-drained, humus-rich soil.",
+    "medicinal_uses": "Traditionally used for sinus infections and rheumatism.",
+    "properties": "Saponins and irritants.",
+    "cure_precaution": "Seek veterinary or human medical help depending on exposure."
+  },
+  {
+    "common_name": "Daphne",
+    "scientific_name": "Daphne spp.",
+    "toxicity": "All parts, especially berries, are highly toxic; can cause nausea, diarrhea, and coma.",
+    "soil_preference": "Moist, well-drained soil with partial shade.",
+    "medicinal_uses": "Very limited traditional use; generally avoided due to toxicity.",
+    "properties": "Daphnetoxin and mezerein (irritants and cytotoxins).",
+    "cure_precaution": "Immediate medical attention; activated charcoal and supportive care recommended."
+  },
+  {
+    "common_name": "Daphne mezereum",
+    "scientific_name": "Daphne mezereum",
+    "toxicity": "Extremely toxic; causes severe gastrointestinal distress and potentially fatal outcomes.",
+    "soil_preference": "Humus-rich, well-drained soil in shaded areas.",
+    "medicinal_uses": "Previously used in folk medicine; not safe for modern medicinal use.",
+    "properties": "Daphnetoxin, skin and mucous membrane irritant.",
+    "cure_precaution": "Seek emergency care immediately upon ingestion or contact."
+  },
+  {
+    "common_name": "Datura",
+    "scientific_name": "Datura stramonium",
+    "toxicity": "Extremely toxic; contains atropine, scopolamine, and hyoscyamine. Can cause hallucinations, seizures, coma, and death.",
+    "soil_preference": "Well-drained, fertile soil in sunny locations.",
+    "medicinal_uses": "Historically used for asthma and muscle spasms (unsafe without medical supervision).",
+    "properties": "Anticholinergic, hallucinogenic, narcotic.",
+    "cure_precaution": "Seek immediate medical attention; treatment includes activated charcoal and symptomatic care."
+  },
+  {
+    "common_name": "Deadly nightshade",
+    "scientific_name": "Atropa belladonna",
+    "toxicity": "Highly toxic; contains atropine and scopolamine; can cause hallucinations, convulsions, and death.",
+    "soil_preference": "Moist, well-drained soil; prefers shaded woodland areas.",
+    "medicinal_uses": "Used pharmaceutically for atropine (under strict control).",
+    "properties": "Anticholinergic alkaloids.",
+    "cure_precaution": "Hospitalization required; supportive and symptomatic treatment."
+  },
+  {
+    "common_name": "Desert rose",
+    "scientific_name": "Adenium obesum",
+    "toxicity": "All parts are toxic; contains cardiac glycosides similar to digitalis.",
+    "soil_preference": "Sandy, well-drained soil in full sun.",
+    "medicinal_uses": "Used in traditional African medicine; considered risky.",
+    "properties": "Cardiac glycosides.",
+    "cure_precaution": "Seek emergency medical help if ingested."
+  },
+  {
+    "common_name": "Devil's club",
+    "scientific_name": "Oplopanax horridus",
+    "toxicity": "Spines can cause infection; root bark mildly toxic in large doses.",
+    "soil_preference": "Moist, shady forest soils.",
+    "medicinal_uses": "Used by Native Americans for respiratory issues, diabetes.",
+    "properties": "Anti-inflammatory, immune-modulating.",
+    "cure_precaution": "Avoid direct contact with spines; use gloves."
+  },
+  {
+    "common_name": "Dogbane",
+    "scientific_name": "Apocynum cannabinum",
+    "toxicity": "All parts are toxic; causes vomiting, diarrhea, and heart arrhythmia.",
+    "soil_preference": "Dry, sandy or gravelly soils.",
+    "medicinal_uses": "Used in traditional medicine for heart and respiratory issues.",
+    "properties": "Cardiac glycosides (apocynin).",
+    "cure_precaution": "Seek emergency treatment; cardiac monitoring required."
+  },
+  {
+    "common_name": "Dogwood",
+    "scientific_name": "Cornus spp.",
+    "toxicity": "Generally not toxic; some species' berries may cause mild GI upset.",
+    "soil_preference": "Moist, acidic, well-drained soil.",
+    "medicinal_uses": "Used historically for fever and pain relief.",
+    "properties": "Astringent bark compounds.",
+    "cure_precaution": "Usually no treatment needed unless symptoms occur."
+  },
+  {
+    "common_name": "Dumb cane",
+    "scientific_name": "Dieffenbachia spp.",
+    "toxicity": "Contains calcium oxalate crystals; causes severe oral irritation and swelling.",
+    "soil_preference": "Rich, well-drained potting soil; often grown as a houseplant.",
+    "medicinal_uses": "None due to toxicity.",
+    "properties": "Mechanical irritants (raphides).",
+    "cure_precaution": "Rinse mouth; seek medical care if breathing is affected."
+  },
+  {
+    "common_name": "Elderberry (raw seeds)",
+    "scientific_name": "Sambucus spp.",
+    "toxicity": "Raw seeds, bark, and leaves contain cyanogenic glycosides.",
+    "soil_preference": "Moist, well-drained soil; tolerates a wide range.",
+    "medicinal_uses": "Cooked berries used for immune support and cold remedies.",
+    "properties": "Cyanide-producing compounds in raw parts.",
+    "cure_precaution": "Cook thoroughly before consumption; avoid raw parts."
+  },
+  {
+    "common_name": "English ivy",
+    "scientific_name": "Hedera helix",
+    "toxicity": "Leaves and berries are toxic; cause skin irritation and GI upset.",
+    "soil_preference": "Well-drained soil in shade or part sun.",
+    "medicinal_uses": "Used in cough syrups (extracts); topical for joint pain.",
+    "properties": "Saponins and falcarinol (allergenic).",
+    "cure_precaution": "Rinse skin; seek care if ingested."
+  },
+  {
+    "common_name": "European spindle",
+    "scientific_name": "Euonymus europaeus",
+    "toxicity": "Fruits and seeds highly toxic; cause vomiting, hallucinations, and organ failure.",
+    "soil_preference": "Moist, fertile soils; partial shade preferred.",
+    "medicinal_uses": "Historically used for skin and parasite treatment (not safe).",
+    "properties": "Cardiac glycosides, alkaloids.",
+    "cure_precaution": "Immediate emergency treatment required."
+  },
+  {
+    "common_name": "False hellebore",
+    "scientific_name": "Veratrum viride",
+    "toxicity": "Very toxic; causes nausea, slowed heart rate, low blood pressure.",
+    "soil_preference": "Wet soils; grows near streams and meadows.",
+    "medicinal_uses": "Used historically for high blood pressure (dangerous).",
+    "properties": "Veratrum alkaloids.",
+    "cure_precaution": "Emergency care with cardiac monitoring."
+  },
+  {
+    "common_name": "Flame lily",
+    "scientific_name": "Gloriosa superba",
+    "toxicity": "Contains colchicine; highly toxic, especially the tubers.",
+    "soil_preference": "Well-drained sandy soils; tropical climate.",
+    "medicinal_uses": "Used in traditional medicine for skin diseases and infertility (risky).",
+    "properties": "Colchicine alkaloid.",
+    "cure_precaution": "Medical emergency; no antidote, supportive care only."
+  },
+  {
+    "common_name": "Four o'clock",
+    "scientific_name": "Mirabilis jalapa",
+    "toxicity": "Seeds and roots can cause nausea and diarrhea.",
+    "soil_preference": "Well-drained, sunny locations.",
+    "medicinal_uses": "Used in folk remedies for inflammation and digestive issues.",
+    "properties": "Alkaloids and triterpenes.",
+    "cure_precaution": "Usually mild; seek care if large amounts are consumed."
+  },
+  {
+    "common_name": "Foxglove",
+    "scientific_name": "Digitalis purpurea",
+    "toxicity": "Very toxic; contains cardiac glycosides that can cause heart failure.",
+    "soil_preference": "Moist, well-drained soil; partial shade.",
+    "medicinal_uses": "Source of digitalis used in heart medication (only under prescription).",
+    "properties": "Cardiotonic glycosides (digitoxin, digoxin).",
+    "cure_precaution": "Emergency treatment with cardiac monitoring required."
+  },
+  {
+    "common_name": "Frangipani",
+    "scientific_name": "Plumeria spp.",
+    "toxicity": "Sap may cause skin irritation; ingestion can lead to nausea and vomiting.",
+    "soil_preference": "Well-drained soil in sunny, warm environments.",
+    "medicinal_uses": "Used in traditional medicine for fever, asthma, and ulcers.",
+    "properties": "Irritant latex; mildly toxic.",
+    "cure_precaution": "Wash exposed skin; seek medical help if ingested in large amounts."
+  },
+  {
+    "common_name": "Giant hogweed",
+    "scientific_name": "Heracleum mantegazzianum",
+    "toxicity": "Sap causes phytophotodermatitis—severe skin burns when exposed to sunlight.",
+    "soil_preference": "Moist, fertile soils; often found near rivers.",
+    "medicinal_uses": "None due to severe phototoxic effects.",
+    "properties": "Furanocoumarins causing phototoxicity.",
+    "cure_precaution": "Avoid sunlight; wash thoroughly and seek care for burns."
+  },
+  {
+    "common_name": "Glory lily",
+    "scientific_name": "Gloriosa superba",
+    "toxicity": "Contains colchicine; extremely poisonous especially in tubers.",
+    "soil_preference": "Sandy, well-drained soils; tropical climate.",
+    "medicinal_uses": "Used traditionally for wounds, infertility, and gout (high risk).",
+    "properties": "Colchicine; anti-inflammatory but toxic.",
+    "cure_precaution": "Emergency care required; no antidote."
+  },
+  {
+    "common_name": "Goldenseal",
+    "scientific_name": "Hydrastis canadensis",
+    "toxicity": "High doses can cause nausea, nervous system effects.",
+    "soil_preference": "Moist, shady woodlands with rich soil.",
+    "medicinal_uses": "Used for digestive and respiratory issues.",
+    "properties": "Berberine and hydrastine alkaloids.",
+    "cure_precaution": "Avoid overuse; consult healthcare provider."
+  },
+  {
+    "common_name": "Goosefoot",
+    "scientific_name": "Chenopodium spp.",
+    "toxicity": "Contains oxalates and saponins; mildly toxic in large quantities.",
+    "soil_preference": "Adaptable to various soils, often found in disturbed areas.",
+    "medicinal_uses": "Used for gastrointestinal discomfort and as an anthelmintic.",
+    "properties": "Oxalates, saponins.",
+    "cure_precaution": "Monitor for symptoms; rarely needs more than supportive care."
+  },
+  {
+    "common_name": "Groundsel",
+    "scientific_name": "Senecio vulgaris",
+    "toxicity": "Contains pyrrolizidine alkaloids; toxic to liver over time.",
+    "soil_preference": "Common in disturbed, well-drained soils.",
+    "medicinal_uses": "Used historically but now discouraged due to hepatotoxicity.",
+    "properties": "Hepatotoxic alkaloids.",
+    "cure_precaution": "Avoid long-term exposure or ingestion; seek care if symptoms occur."
+  },
+  {
+    "common_name": "Hellebore",
+    "scientific_name": "Helleborus spp.",
+    "toxicity": "All parts are toxic; causes vomiting, diarrhea, convulsions.",
+    "soil_preference": "Moist, well-drained soils; partial shade.",
+    "medicinal_uses": "Historically used as a purgative and for mental illness.",
+    "properties": "Cardiac glycosides and saponins.",
+    "cure_precaution": "Seek emergency care if ingested."
+  },
+  {
+    "common_name": "Hemlock",
+    "scientific_name": "Conium maculatum",
+    "toxicity": "One of the most poisonous plants; contains coniine, which affects the nervous system and causes respiratory failure.",
+    "soil_preference": "Moist, disturbed soils; thrives near streams and ditches.",
+    "medicinal_uses": "Historically used as a sedative and for pain relief (now avoided due to toxicity).",
+    "properties": "Neurotoxic alkaloids.",
+    "cure_precaution": "Requires emergency medical care; respiratory support is critical."
+  },
+  {
+    "common_name": "Henbane",
+    "scientific_name": "Hyoscyamus niger",
+    "toxicity": "Very toxic; contains tropane alkaloids like scopolamine and hyoscyamine.",
+    "soil_preference": "Dry, sandy or loamy soils.",
+    "medicinal_uses": "Used in traditional medicine for pain and spasms (very dangerous).",
+    "properties": "Anticholinergic alkaloids.",
+    "cure_precaution": "Immediate medical attention is essential; symptomatic treatment only."
+  },
+  {
+    "common_name": "Indian hemp",
+    "scientific_name": "Apocynum cannabinum",
+    "toxicity": "Toxic; affects heart and nervous system.",
+    "soil_preference": "Dry, well-drained soils.",
+    "medicinal_uses": "Historically used for heart problems and as a diuretic.",
+    "properties": "Cardiac glycosides.",
+    "cure_precaution": "Emergency care required for ingestion."
+  },
+  {
+    "common_name": "Indian paintbrush",
+    "scientific_name": "Castilleja spp.",
+    "toxicity": "Mildly toxic if grown in selenium-rich soil; may cause GI distress.",
+    "soil_preference": "Dry, sandy, well-drained soil.",
+    "medicinal_uses": "Used by Native Americans for hair treatments and as food seasoning (with caution).",
+    "properties": "Selenium accumulator.",
+    "cure_precaution": "Avoid ingestion from unknown sources."
+  },
+  {
+    "common_name": "Iris",
+    "scientific_name": "Iris spp.",
+    "toxicity": "Rhizomes and leaves contain irritants; ingestion causes nausea and vomiting.",
+    "soil_preference": "Moist, well-drained soil.",
+    "medicinal_uses": "Historically used for respiratory conditions and purging.",
+    "properties": "Irritant resins and glycosides.",
+    "cure_precaution": "Wash thoroughly; treat symptoms supportively."
+  },
+  {
+    "common_name": "Jack-in-the-pulpit",
+    "scientific_name": "Arisaema triphyllum",
+    "toxicity": "Contains calcium oxalate crystals; causes oral and throat irritation.",
+    "soil_preference": "Moist, woodland soils.",
+    "medicinal_uses": "Used in Native American medicine for skin diseases and sore eyes (only after drying).",
+    "properties": "Mechanical irritants (raphides).",
+    "cure_precaution": "Avoid fresh plant ingestion; treat swelling and irritation."
+  },
+  {
+    "common_name": "Japanese yew",
+    "scientific_name": "Taxus cuspidata",
+    "toxicity": "Highly toxic; all parts except aril contain taxine alkaloids.",
+    "soil_preference": "Well-drained soil in sun or shade.",
+    "medicinal_uses": "Source of paclitaxel (anti-cancer drug); not safe raw.",
+    "properties": "Cardiotoxic taxines.",
+    "cure_precaution": "Fatal if ingested; emergency care mandatory."
+  },
+  {
+    "common_name": "Jerusalem cherry",
+    "scientific_name": "Solanum pseudocapsicum",
+    "toxicity": "Berries contain solanine; toxic if eaten in quantity.",
+    "soil_preference": "Well-drained, slightly acidic soils.",
+    "medicinal_uses": "Not used medicinally; ornamental plant only.",
+    "properties": "Solanine and related glycoalkaloids.",
+    "cure_precaution": "Supportive care for GI symptoms if ingested."
+  },
+  {
+    "common_name": "Jessamine",
+    "scientific_name": "Gelsemium sempervirens",
+    "toxicity": "Contains gelsemine and related alkaloids; highly toxic.",
+    "soil_preference": "Well-drained, acidic soil.",
+    "medicinal_uses": "Used historically for anxiety and neuralgia; not safe for use.",
+    "properties": "Neurotoxic alkaloids.",
+    "cure_precaution": "Requires immediate medical attention."
+  },
+  {
+    "common_name": "Jimsonweed",
+    "scientific_name": "Datura stramonium",
+    "toxicity": "Same as Datura; causes delirium, dry mouth, pupil dilation, and potentially fatal poisoning.",
+    "soil_preference": "Prefers rich, dry, well-drained soils in sunny areas.",
+    "medicinal_uses": "Used cautiously in traditional medicine for asthma and pain (very dangerous).",
+    "properties": "Tropane alkaloids; anticholinergic and hallucinogenic.",
+    "cure_precaution": "Hospitalization required for ingestion; no antidote, only supportive care."
+  },
+  {
+    "common_name": "Johnsongrass",
+    "scientific_name": "Sorghum halepense",
+    "toxicity": "Can produce cyanide under stress conditions; toxic to livestock and humans.",
+    "soil_preference": "Adaptable to various soils; thrives in disturbed areas.",
+    "medicinal_uses": "No notable medicinal use.",
+    "properties": "Cyanogenic glycosides.",
+    "cure_precaution": "Avoid feeding to animals during drought; supportive care needed for poisoning."
+  },
+  {
+    "common_name": "Juniper (unripe berries)",
+    "scientific_name": "Juniperus spp.",
+    "toxicity": "Unripe berries and leaves may cause kidney irritation and GI distress.",
+    "soil_preference": "Well-drained, sandy or rocky soil.",
+    "medicinal_uses": "Juniper berries used for digestion and urinary tract health (in small, ripe doses).",
+    "properties": "Volatile oils, terpenes.",
+    "cure_precaution": "Avoid excessive consumption; seek medical advice for poisoning symptoms."
+  },
+  {
+    "common_name": "Kava",
+    "scientific_name": "Piper methysticum",
+    "toxicity": "Liver toxicity reported with heavy or long-term use.",
+    "soil_preference": "Moist, well-drained, shaded soils in tropical regions.",
+    "medicinal_uses": "Used for anxiety, stress, and insomnia.",
+    "properties": "Kavalactones (anxiolytic, sedative).",
+    "cure_precaution": "Limit use to avoid liver damage; avoid alcohol combination."
+  },
+  {
+    "common_name": "Lantana",
+    "scientific_name": "Lantana camara",
+    "toxicity": "Toxic to livestock and pets; causes liver damage and photosensitivity.",
+    "soil_preference": "Dry, well-drained soils; drought-tolerant.",
+    "medicinal_uses": "Used in traditional remedies for skin infections and respiratory issues.",
+    "properties": "Lantadenes (hepatotoxic compounds).",
+    "cure_precaution": "Seek veterinary/human care; supportive treatment recommended."
+  },
+  {
+    "common_name": "Larkspur",
+    "scientific_name": "Delphinium spp.",
+    "toxicity": "All parts, especially young plants and seeds, are toxic; causes neuromuscular paralysis and death.",
+    "soil_preference": "Well-drained, fertile soils; full sun to partial shade.",
+    "medicinal_uses": "Used historically to treat lice and scabies (no longer recommended).",
+    "properties": "Alkaloids affecting neuromuscular function.",
+    "cure_precaution": "Avoid ingestion; seek emergency care for muscle weakness or respiratory distress."
+  },
+  {
+    "common_name": "Laurel cherry",
+    "scientific_name": "Prunus laurocerasus",
+    "toxicity": "Contains cyanogenic glycosides; toxic if chewed or crushed.",
+    "soil_preference": "Moist, well-drained soil; tolerates shade.",
+    "medicinal_uses": "Not used due to high toxicity.",
+    "properties": "Cyanide-releasing compounds.",
+    "cure_precaution": "Avoid ingestion; emergency care may be required."
+  },
+  {
+    "common_name": "Lily of the valley",
+    "scientific_name": "Convallaria majalis",
+    "toxicity": "Contains cardiac glycosides; can affect heart rhythm.",
+    "soil_preference": "Moist, rich soils in partial shade.",
+    "medicinal_uses": "Used under supervision for heart conditions.",
+    "properties": "Convallatoxin and related glycosides.",
+    "cure_precaution": "Immediate medical care required; monitor heart function."
+  },
+  {
+    "common_name": "Lobelia",
+    "scientific_name": "Lobelia inflata",
+    "toxicity": "High doses cause nausea, vomiting, seizures, and even coma.",
+    "soil_preference": "Moist, fertile, well-drained soil.",
+    "medicinal_uses": "Used in small doses for respiratory conditions like asthma.",
+    "properties": "Lobeline (alkaloid), emetic.",
+    "cure_precaution": "Do not exceed dosage; seek medical help for overdose."
+  },
+  {
+    "common_name": "Mandrake",
+    "scientific_name": "Mandragora officinarum",
+    "toxicity": "All parts are highly toxic; contains tropane alkaloids.",
+    "soil_preference": "Sandy, well-drained soil in full sun.",
+    "medicinal_uses": "Used historically as an anesthetic and for pain relief (not safe).",
+    "properties": "Anticholinergic, hallucinogenic.",
+    "cure_precaution": "Seek emergency medical attention for ingestion or exposure."
+  },
+  {
+    "common_name": "Milkweed",
+    "scientific_name": "Asclepias spp.",
+    "toxicity": "Contains cardiac glycosides; toxic to humans and animals.",
+    "soil_preference": "Well-drained soils; common in prairies and open fields.",
+    "medicinal_uses": "Used traditionally for respiratory issues and warts.",
+    "properties": "Cardenolides (cardiac effects).",
+    "cure_precaution": "Avoid ingestion; emergency care needed for poisoning."
+  },
+  {
+    "common_name": "Mistletoe",
+    "scientific_name": "Phoradendron spp.",
+    "toxicity": "Berries and leaves are toxic; can cause blurred vision, nausea, convulsions.",
+    "soil_preference": "Parasitic on trees; does not grow in soil.",
+    "medicinal_uses": "Used in folk medicine for hypertension and fertility (controversial and risky).",
+    "properties": "Viscotoxin, lectins.",
+    "cure_precaution": "Avoid ingestion; hospital care required for toxicity."
+  },
+  {
+    "common_name": "Monkshood",
+    "scientific_name": "Aconitum spp.",
+    "toxicity": "Extremely poisonous; contains aconitine, a potent neurotoxin.",
+    "soil_preference": "Cool, moist, well-drained soils.",
+    "medicinal_uses": "Was used for pain and fever historically (not recommended).",
+    "properties": "Alkaloids (aconitine).",
+    "cure_precaution": "Fatal in small doses; seek emergency treatment immediately."
+  },
+  {
+    "common_name": "Moonseed",
+    "scientific_name": "Menispermum canadense",
+    "toxicity": "Berries resemble grapes but are toxic; contains dauricine.",
+    "soil_preference": "Moist woods and shaded thickets.",
+    "medicinal_uses": "Historically used as a tonic and sedative (now avoided).",
+    "properties": "Isoquinoline alkaloids.",
+    "cure_precaution": "Do not eat berries; seek urgent medical attention."
+  },
+  {
+    "common_name": "Mountain laurel",
+    "scientific_name": "Kalmia latifolia",
+    "toxicity": "All parts are toxic; contains grayanotoxins causing cardiac dysfunction.",
+    "soil_preference": "Acidic, moist, well-drained soils.",
+    "medicinal_uses": "Used cautiously in folk medicine for pain and skin issues.",
+    "properties": "Neurotoxic and cardiotoxic alkaloids.",
+    "cure_precaution": "Emergency care necessary if ingested."
+  },
+  {
+    "common_name": "Narcissus",
+    "scientific_name": "Narcissus spp.",
+    "toxicity": "Bulbs are toxic; cause vomiting, diarrhea, and tremors.",
+    "soil_preference": "Well-drained soils; tolerates sun and partial shade.",
+    "medicinal_uses": "Used in traditional medicine for wounds and respiratory ailments.",
+    "properties": "Lycorine and related alkaloids.",
+    "cure_precaution": "Avoid ingestion; treat symptoms medically if consumed."
+  },
+  {
+    "common_name": "Night jasmine",
+    "scientific_name": "Nyctanthes arbor-tristis",
+    "toxicity": "Mildly toxic; excessive ingestion may cause nausea or diarrhea.",
+    "soil_preference": "Well-drained, loamy soil with full to partial sunlight.",
+    "medicinal_uses": "Used traditionally to treat arthritis, fevers, and worms.",
+    "properties": "Anti-inflammatory, antioxidant.",
+    "cure_precaution": "Use cautiously; avoid high doses. Supportive care if symptoms occur."
+  },
+  {
+    "common_name": "Night-blooming jasmine",
+    "scientific_name": "Cestrum nocturnum",
+    "toxicity": "Berries and leaves can be toxic; may cause respiratory and digestive issues.",
+    "soil_preference": "Moist, fertile soils in warm climates.",
+    "medicinal_uses": "Used in folk medicine for pain relief and fever.",
+    "properties": "Solanine-like alkaloids.",
+    "cure_precaution": "Keep away from children and pets; seek care for symptoms."
+  },
+  {
+    "common_name": "Nux vomica",
+    "scientific_name": "Strychnos nux-vomica",
+    "toxicity": "Extremely toxic; contains strychnine and brucine which cause convulsions and death.",
+    "soil_preference": "Sandy, well-drained soil in tropical climates.",
+    "medicinal_uses": "Historically used as a stimulant and in homeopathy (very dangerous).",
+    "properties": "Neurotoxic alkaloids.",
+    "cure_precaution": "Requires immediate emergency treatment; life-threatening toxicity."
+  },
+  {
+    "common_name": "Oak (green parts)",
+    "scientific_name": "Quercus spp.",
+    "toxicity": "Young leaves and acorns contain tannins that are toxic in large quantities.",
+    "soil_preference": "Well-drained, fertile soil.",
+    "medicinal_uses": "Oak bark used for astringent and anti-inflammatory properties.",
+    "properties": "Tannins (GI and kidney effects in excess).",
+    "cure_precaution": "Avoid ingestion in large amounts; supportive care."
+  },
+  {
+    "common_name": "Oleander",
+    "scientific_name": "Nerium oleander",
+    "toxicity": "Extremely toxic; contains cardiac glycosides like oleandrin. Can be fatal.",
+    "soil_preference": "Well-drained soil; tolerates drought.",
+    "medicinal_uses": "Used in traditional medicine for heart failure (under strict medical supervision).",
+    "properties": "Cardiotoxic glycosides.",
+    "cure_precaution": "Emergency treatment required; activated charcoal and cardiac monitoring."
+  },
+  {
+    "common_name": "Oxalis",
+    "scientific_name": "Oxalis spp.",
+    "toxicity": "Contains oxalates; can cause kidney damage in large amounts.",
+    "soil_preference": "Moist, well-drained soil with shade or partial sun.",
+    "medicinal_uses": "Used in small doses for fevers and digestive issues.",
+    "properties": "Oxalic acid.",
+    "cure_precaution": "Limit consumption; hydrate and seek care if symptoms persist."
+  },
+  {
+    "common_name": "Pachypodium",
+    "scientific_name": "Pachypodium spp.",
+    "toxicity": "All parts are toxic; contains cardiac glycosides.",
+    "soil_preference": "Dry, sandy, well-drained soil.",
+    "medicinal_uses": "Not typically used medicinally due to toxicity.",
+    "properties": "Cardiotoxic compounds.",
+    "cure_precaution": "Avoid ingestion; seek emergency care if consumed."
+  },
+  {
+    "common_name": "Peace lily",
+    "scientific_name": "Spathiphyllum spp.",
+    "toxicity": "Contains calcium oxalate crystals; causes mouth and throat irritation.",
+    "soil_preference": "Moist, well-drained potting mix.",
+    "medicinal_uses": "Ornamental only; no medicinal use.",
+    "properties": "Mechanical irritants (raphides).",
+    "cure_precaution": "Rinse mouth; seek medical help for breathing difficulty."
+  },
+  {
+    "common_name": "Periwinkle",
+    "scientific_name": "Catharanthus roseus",
+    "toxicity": "All parts toxic; can cause GI distress and low blood pressure.",
+    "soil_preference": "Well-drained, fertile soil; prefers sun.",
+    "medicinal_uses": "Source of chemotherapy drugs vincristine and vinblastine.",
+    "properties": "Alkaloids (vinca alkaloids).",
+    "cure_precaution": "Monitor for poisoning symptoms; medical care for significant exposure."
+  },
+  {
+    "common_name": "Philodendron",
+    "scientific_name": "Philodendron spp.",
+    "toxicity": "Contains calcium oxalate crystals; causes irritation and swelling.",
+    "soil_preference": "Rich, well-drained soil with indirect sunlight.",
+    "medicinal_uses": "No known medicinal use.",
+    "properties": "Mechanical irritants.",
+    "cure_precaution": "Rinse mouth or skin; seek care if swelling or pain persists."
+  },
+  {
+    "common_name": "Poinsettia",
+    "scientific_name": "Euphorbia pulcherrima",
+    "toxicity": "Mildly toxic; causes irritation of the mouth and stomach, with possible vomiting.",
+    "soil_preference": "Well-drained soil with bright, indirect light.",
+    "medicinal_uses": "None; used only as an ornamental plant.",
+    "properties": "Latex sap may irritate skin and mucous membranes.",
+    "cure_precaution": "Rinse mouth or skin; give fluids for mild symptoms. Rarely requires medical treatment."
+  },
+  {
+    "common_name": "Poison ivy",
+    "scientific_name": "Toxicodendron radicans",
+    "toxicity": "Causes allergic skin reaction due to urushiol oil.",
+    "soil_preference": "Well-drained soil in woodlands and disturbed areas.",
+    "medicinal_uses": "None; considered harmful.",
+    "properties": "Urushiol (skin allergen).",
+    "cure_precaution": "Wash with soap and water; use corticosteroids for rash."
+  },
+  {
+    "common_name": "Poison oak",
+    "scientific_name": "Toxicodendron diversilobum",
+    "toxicity": "Causes allergic reaction similar to poison ivy.",
+    "soil_preference": "Dry, well-drained soils; woodlands and fields.",
+    "medicinal_uses": "None.",
+    "properties": "Urushiol oil (skin allergen).",
+    "cure_precaution": "Avoid contact; wash thoroughly and use anti-inflammatory creams."
+  },
+  {
+    "common_name": "Poison sumac",
+    "scientific_name": "Toxicodendron vernix",
+    "toxicity": "Most toxic of the poison ivy/oak group; severe skin rash on contact.",
+    "soil_preference": "Wet, swampy soils.",
+    "medicinal_uses": "None; harmful plant.",
+    "properties": "Urushiol oil.",
+    "cure_precaution": "Immediate washing; seek care for serious reactions."
+  },
+  {
+    "common_name": "Pokeweed",
+    "scientific_name": "Phytolacca americana",
+    "toxicity": "All parts are toxic; causes vomiting, diarrhea, and difficulty breathing.",
+    "soil_preference": "Moist, fertile soils.",
+    "medicinal_uses": "Used in folk medicine for arthritis and skin conditions (not recommended).",
+    "properties": "Saponins, alkaloids.",
+    "cure_precaution": "Emergency treatment required for ingestion."
+  },
+  {
+    "common_name": "Potato (green parts)",
+    "scientific_name": "Solanum tuberosum",
+    "toxicity": "Green parts and sprouts contain solanine; can cause nausea, paralysis, and death in large doses.",
+    "soil_preference": "Loamy, well-drained soil.",
+    "medicinal_uses": "Cooked potatoes have nutritional use; green parts are not used medicinally.",
+    "properties": "Glycoalkaloids (solanine).",
+    "cure_precaution": "Do not eat green/sprouting potatoes; treat symptoms supportively."
+  },
+  {
+    "common_name": "Privet",
+    "scientific_name": "Ligustrum spp.",
+    "toxicity": "Leaves and berries are toxic; may cause abdominal pain, vomiting, and irregular heartbeat.",
+    "soil_preference": "Tolerates a wide range; prefers well-drained soil.",
+    "medicinal_uses": "Used in traditional Chinese medicine for immune boosting.",
+    "properties": "Ligustrin and saponins.",
+    "cure_precaution": "Seek medical attention if berries or leaves are ingested."
+  },
+  {
+    "common_name": "Ragwort",
+    "scientific_name": "Senecio jacobaea",
+    "toxicity": "Contains pyrrolizidine alkaloids; causes liver damage if ingested over time.",
+    "soil_preference": "Poor, well-drained soils; often in disturbed areas.",
+    "medicinal_uses": "Not recommended due to cumulative toxicity.",
+    "properties": "Hepatotoxic alkaloids.",
+    "cure_precaution": "Avoid ingestion; seek care if symptoms develop from chronic exposure."
+  },
+  {
+    "common_name": "Rattlebox",
+    "scientific_name": "Crotalaria spp.",
+    "toxicity": "Contains monocrotaline; highly toxic to the liver and lungs.",
+    "soil_preference": "Well-drained soil; often found in tropical and subtropical regions.",
+    "medicinal_uses": "No safe medicinal use due to high toxicity.",
+    "properties": "Pyrrolizidine alkaloids.",
+    "cure_precaution": "Immediate medical attention required; no antidote."
+  },
+  {
+    "common_name": "Rhododendron",
+    "scientific_name": "Rhododendron spp.",
+    "toxicity": "Contains grayanotoxins; ingestion causes vomiting, low blood pressure, and arrhythmias.",
+    "soil_preference": "Acidic, well-drained, humus-rich soil.",
+    "medicinal_uses": "Not used medicinally due to toxicity.",
+    "properties": "Neurotoxic and cardiotoxic alkaloids.",
+    "cure_precaution": "Emergency care required if ingested."
+  },
+  {
+    "common_name": "Rhubarb (leaves)",
+    "scientific_name": "Rheum rhabarbarum",
+    "toxicity": "Leaves are toxic due to high oxalic acid and anthraquinone content; may cause nausea, kidney failure, or convulsions.",
+    "soil_preference": "Moist, fertile, well-drained soil with full sun.",
+    "medicinal_uses": "Stalks used in food; root used in herbal laxatives.",
+    "properties": "Leaves contain oxalates; stalks are safe.",
+    "cure_precaution": "Do not consume leaves; seek medical care if ingested."
+  },
+  {
+    "common_name": "Rosary pea",
+    "scientific_name": "Abrus precatorius",
+    "toxicity": "Extremely toxic; contains abrin. Chewing even one seed can be fatal.",
+    "soil_preference": "Sandy, well-drained soil in tropical climates.",
+    "medicinal_uses": "Used in traditional medicine with extreme caution (not recommended).",
+    "properties": "Abrin (ribosome-inhibiting toxin).",
+    "cure_precaution": "Seek emergency care immediately; no specific antidote."
+  },
+  {
+    "common_name": "Sago palm",
+    "scientific_name": "Cycas revoluta",
+    "toxicity": "All parts, especially seeds, are highly toxic to pets and humans; causes liver failure.",
+    "soil_preference": "Well-drained sandy soils in full sun.",
+    "medicinal_uses": "None; used only ornamentally.",
+    "properties": "Cycasin, BMAA neurotoxins.",
+    "cure_precaution": "Seek emergency care for ingestion; can be fatal."
+  },
+  {
+    "common_name": "Sandbox tree",
+    "scientific_name": "Hura crepitans",
+    "toxicity": "Milky sap is extremely irritating; seeds are poisonous and explosive.",
+    "soil_preference": "Tropical, well-drained soils.",
+    "medicinal_uses": "Used traditionally as a purgative and fish poison (dangerous).",
+    "properties": "Toxalbumins and irritants.",
+    "cure_precaution": "Avoid handling; emergency care if exposed."
+  },
+  {
+    "common_name": "Skunk cabbage",
+    "scientific_name": "Symplocarpus foetidus",
+    "toxicity": "Contains calcium oxalate crystals; causes severe mouth and throat irritation.",
+    "soil_preference": "Wetlands and swampy soils.",
+    "medicinal_uses": "Used in Native American medicine for respiratory issues (processed form).",
+    "properties": "Raphides (mechanical irritants).",
+    "cure_precaution": "Avoid fresh plant ingestion; rinse thoroughly and monitor."
+  },
+  {
+    "common_name": "Sorghum (young leaves)",
+    "scientific_name": "Sorghum spp.",
+    "toxicity": "Young plants can produce cyanide; toxic especially to livestock.",
+    "soil_preference": "Well-drained soil; drought-tolerant.",
+    "medicinal_uses": "None from toxic parts.",
+    "properties": "Cyanogenic compounds in immature stages.",
+    "cure_precaution": "Avoid consumption during drought or regrowth phase."
+  },
+  {
+    "common_name": "Spurges",
+    "scientific_name": "Euphorbia spp.",
+    "toxicity": "Milky latex causes skin, eye, and GI irritation.",
+    "soil_preference": "Varies by species; often dry, sandy soil.",
+    "medicinal_uses": "Used topically in traditional medicine (cautiously).",
+    "properties": "Diterpenes and irritant latex.",
+    "cure_precaution": "Avoid contact with eyes or mucous membranes; rinse thoroughly."
+  },
+  {
+    "common_name": "Star-of-Bethlehem",
+    "scientific_name": "Ornithogalum umbellatum",
+    "toxicity": "Bulbs and leaves contain cardiac glycosides; toxic to humans and pets.",
+    "soil_preference": "Moist, well-drained soils.",
+    "medicinal_uses": "Not used medicinally due to high risk.",
+    "properties": "Cardenolides (cardiotoxic).",
+    "cure_precaution": "Seek immediate medical care if ingested."
+  },
+  {
+    "common_name": "Strychnine tree",
+    "scientific_name": "Strychnos nux-vomica",
+    "toxicity": "Highly toxic; seeds contain strychnine and brucine, which cause severe muscle spasms, convulsions, and death.",
+    "soil_preference": "Well-drained, sandy or loamy soil in tropical regions.",
+    "medicinal_uses": "Used historically as a stimulant and tonic (extremely dangerous).",
+    "properties": "Neurotoxic alkaloids (strychnine, brucine).",
+    "cure_precaution": "Requires emergency medical attention; often fatal without rapid treatment."
+  },
+  {
+    "common_name": "Sweet alyssum",
+    "scientific_name": "Lobularia maritima",
+    "toxicity": "Generally considered non-toxic, though some people may experience mild GI upset.",
+    "soil_preference": "Well-drained, moderately fertile soil.",
+    "medicinal_uses": "Sometimes used in traditional remedies for cough.",
+    "properties": "Mild irritants in sensitive individuals.",
+    "cure_precaution": "Minimal risk; supportive care if needed."
+  },
+  {
+    "common_name": "Sweet peas",
+    "scientific_name": "Lathyrus odoratus",
+    "toxicity": "Seeds contain β-aminopropionitrile; ingestion over time can lead to lathyrism (muscle paralysis).",
+    "soil_preference": "Fertile, well-drained soils with full sun.",
+    "medicinal_uses": "None.",
+    "properties": "Neurotoxic amino acids.",
+    "cure_precaution": "Avoid eating seeds; seek medical attention if symptoms arise."
+  },
+  {
+    "common_name": "Tansy",
+    "scientific_name": "Tanacetum vulgare",
+    "toxicity": "Contains thujone; can cause convulsions, vomiting, and liver damage in large doses.",
+    "soil_preference": "Well-drained, sandy or loamy soils.",
+    "medicinal_uses": "Used historically for worm infestations and menstrual issues.",
+    "properties": "Thujone (neurotoxic).",
+    "cure_precaution": "Do not ingest; medical supervision required for poisoning."
+  },
+  {
+    "common_name": "Tree tobacco",
+    "scientific_name": "Nicotiana glauca",
+    "toxicity": "All parts are toxic; contains nicotine and anabasine alkaloids.",
+    "soil_preference": "Dry, sandy soils; drought-resistant.",
+    "medicinal_uses": "Used traditionally for respiratory and skin ailments (risky).",
+    "properties": "Nicotine-like alkaloids.",
+    "cure_precaution": "Emergency care needed for ingestion or significant exposure."
+  },
+  {
+    "common_name": "Virginia creeper",
+    "scientific_name": "Parthenocissus quinquefolia",
+    "toxicity": "Berries contain oxalates; can cause nausea, vomiting, and kidney damage.",
+    "soil_preference": "Well-drained, average soil in sun or shade.",
+    "medicinal_uses": "Used in folk medicine for swelling and inflammation.",
+    "properties": "Calcium oxalates.",
+    "cure_precaution": "Avoid ingestion; rinse mouth and seek care if symptoms arise."
+  },
+  {
+    "common_name": "Water hemlock",
+    "scientific_name": "Cicuta spp.",
+    "toxicity": "Extremely toxic; contains cicutoxin which causes seizures and death.",
+    "soil_preference": "Wet soils near streams, ditches, and marshes.",
+    "medicinal_uses": "None due to high toxicity.",
+    "properties": "Neurotoxic polyacetylenes.",
+    "cure_precaution": "Seek emergency treatment immediately; often fatal."
+  },
+  {
+    "common_name": "White snakeroot",
+    "scientific_name": "Ageratina altissima",
+    "toxicity": "Contains tremetol; causes 'milk sickness' if livestock eat it.",
+    "soil_preference": "Woodland edges; prefers moist, well-drained soil.",
+    "medicinal_uses": "Historically used for fever and diarrhea (risky).",
+    "properties": "Tremetol (cumulative toxin).",
+    "cure_precaution": "Avoid ingestion; remove from grazing areas."
+  },
+  {
+    "common_name": "Wild cherry",
+    "scientific_name": "Prunus serotina",
+    "toxicity": "Leaves and seeds contain cyanogenic glycosides; toxic when wilted.",
+    "soil_preference": "Moist, fertile soils in forests and fields.",
+    "medicinal_uses": "Used in cough syrups (bark only).",
+    "properties": "Amygdalin (cyanide producer).",
+    "cure_precaution": "Avoid wilted leaves; seek medical care for symptoms."
+  },
+  {
+    "common_name": "Wild parsnip",
+    "scientific_name": "Pastinaca sativa",
+    "toxicity": "Sap causes severe burns when exposed to sunlight (phytophotodermatitis).",
+    "soil_preference": "Open, sunny areas with well-drained soil.",
+    "medicinal_uses": "Historically used as a food crop; medicinal use not recommended.",
+    "properties": "Furanocoumarins (phototoxins).",
+    "cure_precaution": "Wash skin immediately after contact; avoid sun exposure."
+  },
+  {
+    "common_name": "Wisteria",
+    "scientific_name": "Wisteria spp.",
+    "toxicity": "Seeds and pods contain lectins; can cause nausea, vomiting, and diarrhea.",
+    "soil_preference": "Well-drained, fertile soils; prefers full sun.",
+    "medicinal_uses": "No recognized medicinal uses.",
+    "properties": "Lectins and wisterin toxin.",
+    "cure_precaution": "Avoid ingestion; supportive care for GI symptoms."
+  },
+  {
+    "common_name": "Yellow dock",
+    "scientific_name": "Rumex crispus",
+    "toxicity": "Leaves contain oxalates; large quantities may cause kidney issues.",
+    "soil_preference": "Disturbed, nutrient-rich soils.",
+    "medicinal_uses": "Used for liver and skin conditions in herbal medicine.",
+    "properties": "Oxalates, anthraquinones.",
+    "cure_precaution": "Avoid excess use; hydrate and monitor symptoms."
+  },
+  {
+    "common_name": "Yellow oleander",
+    "scientific_name": "Thevetia peruviana",
+    "toxicity": "Highly toxic; contains thevetin and peruvoside, cardiac glycosides.",
+    "soil_preference": "Tropical, well-drained soils.",
+    "medicinal_uses": "Used in traditional medicine (dangerous and discouraged).",
+    "properties": "Cardiotoxic glycosides.",
+    "cure_precaution": "Immediate emergency treatment required; potentially fatal."
+  },
+  {
+  "common_name": "Yew",
+  "scientific_name": "Taxus spp.",
+  "toxicity": "Extremely toxic; all parts except the red aril contain taxine alkaloids which affect the heart and central nervous system.",
+  "soil_preference": "Moist, well-drained soil; grows in both sun and shade.",
+  "medical_uses": "Source of paclitaxel (Taxol), a chemotherapy drug used to treat various cancers.",
+  "properties": "Cardiotoxic alkaloids (taxine A and B), anti-cancer compounds (paclitaxel).",
+  "cure_precaution": "Ingestion requires immediate emergency treatment; no known antidote, supportive care and cardiac monitoring essential."
+  }
+]

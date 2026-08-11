@@ -1,0 +1,62 @@
+{
+  "optimal_parameters": {
+    "alpha": 0.5,
+    "threshold": 0.5800000000000001
+  },
+  "configurations": {
+    "Baseline (no TTA)": {
+      "accuracy": 0.9122807017543859,
+      "precision": 0.9129241084330386,
+      "recall": 0.9122807017543859,
+      "f1_score": 0.9122465180053403,
+      "sensitivity": 0.9320175438596491,
+      "specificity": 0.8925438596491229,
+      "roc_auc": 0.9642341874422901,
+      "confusion_matrix": {
+        "true_negative": 407,
+        "false_positive": 49,
+        "false_negative": 31,
+        "true_positive": 425
+      }
+    },
+    "TTA (argmax, \u03b1=0.5)": {
+      "accuracy": 0.9035087719298246,
+      "precision": 0.9048248576666988,
+      "recall": 0.9035087719298246,
+      "f1_score": 0.9034302848864352,
+      "sensitivity": 0.9320175438596491,
+      "specificity": 0.875,
+      "roc_auc": 0.964238996614343,
+      "confusion_matrix": {
+        "true_negative": 399,
+        "false_positive": 57,
+        "false_negative": 31,
+        "true_positive": 425
+      }
+    },
+    "TTA (threshold \u03c4=0.5800000000000001)": {
+      "accuracy": 0.9078947368421053,
+      "precision": 0.9079025835369255,
+      "recall": 0.9078947368421053,
+      "f1_score": 0.9078942938899176,
+      "sensitivity": 0.9100877192982456,
+      "specificity": 0.9057017543859649,
+      "roc_auc": 0.964238996614343,
+      "confusion_matrix": {
+        "true_negative": 413,
+        "false_positive": 43,
+        "false_negative": 41,
+        "true_positive": 415
+      }
+    }
+  },
+  "dataset_info": {
+    "total_samples": 912,
+    "class_0_samples": 456,
+    "class_1_samples": 456,
+    "class_names": [
+      "Non_Poisonous",
+      "Poisonous"
+    ]
+  }
+}

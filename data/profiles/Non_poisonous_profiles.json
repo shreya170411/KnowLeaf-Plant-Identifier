@@ -1,0 +1,1082 @@
+[
+  {
+    "common_name": "Aloe ferox",
+    "scientific_name": "Aloe ferox",
+    "edibility": "Edible (medicinal)",
+    "soil_preference": "Well-drained sandy soil",
+    "medicinal_uses": "Digestive tonic, wound healing",
+    "properties": "Laxative, anti-inflammatory",
+    "cure_precaution": "Use in small medicinal amounts; avoid during pregnancy"
+  },
+  {
+    "common_name": "Aloe vera",
+    "scientific_name": "Aloe vera",
+    "edibility": "Edible (gel only)",
+    "soil_preference": "Sandy, well-drained soil",
+    "medicinal_uses": "Skin healing, digestive aid",
+    "properties": "Antibacterial, soothing, cooling",
+    "cure_precaution": "Use inner gel only; latex part may cause cramps"
+  },
+  {
+    "common_name": "Amaranth",
+    "scientific_name": "Amaranthus spp.",
+    "edibility": "Edible",
+    "soil_preference": "Loamy or sandy well-drained soil",
+    "medicinal_uses": "Rich source of iron and fiber",
+    "properties": "High in protein, antioxidant-rich",
+    "cure_precaution": "Avoid overconsumption of raw leaves due to oxalates"
+  },
+  {
+    "common_name": "Anise",
+    "scientific_name": "Pimpinella anisum",
+    "edibility": "Edible",
+    "soil_preference": "Light, well-drained, fertile soil",
+    "medicinal_uses": "Helps with bloating and cough",
+    "properties": "Carminative, aromatic",
+    "cure_precaution": "May cause allergic reactions in sensitive individuals"
+  },
+  {
+    "common_name": "Apple",
+    "scientific_name": "Malus domestica",
+    "edibility": "Edible (fruit)",
+    "soil_preference": "Loamy, well-drained soil",
+    "medicinal_uses": "Good for heart health and digestion",
+    "properties": "High in fiber and vitamin C",
+    "cure_precaution": "Avoid eating too many seeds (contain trace cyanide)"
+  },
+  {
+    "common_name": "Arugula",
+    "scientific_name": "Eruca vesicaria",
+    "edibility": "Edible",
+    "soil_preference": "Moist, nutrient-rich soil",
+    "medicinal_uses": "Bone health and digestion",
+    "properties": "Rich in calcium and antioxidants",
+    "cure_precaution": "Wash thoroughly to remove soil and residues"
+  },
+  {
+    "common_name": "Ashwagandha",
+    "scientific_name": "Withania somnifera",
+    "edibility": "Edible (medicinal root)",
+    "soil_preference": "Sandy or loamy, well-drained soil",
+    "medicinal_uses": "Adaptogen for stress, anxiety, stamina",
+    "properties": "Anti-inflammatory, immune-modulating",
+    "cure_precaution": "Avoid in pregnancy; consult doctor before long-term use"
+  },
+  {
+    "common_name": "Bamboo shoots",
+    "scientific_name": "Bambusa spp.",
+    "edibility": "Edible (cooked)",
+    "soil_preference": "Moist, well-drained soil",
+    "medicinal_uses": "Digestive health, high fiber",
+    "properties": "Rich in antioxidants and vitamins",
+    "cure_precaution": "Must be cooked to remove cyanogenic compounds"
+  },
+  {
+    "common_name": "Banana",
+    "scientific_name": "Musa spp.",
+    "edibility": "Edible (fruit)",
+    "soil_preference": "Fertile, moist, well-drained soil",
+    "medicinal_uses": "Energy boost, digestive balance",
+    "properties": "High in potassium and natural sugars",
+    "cure_precaution": "Generally safe; avoid unripe ones if allergic"
+  },
+  {
+    "common_name": "Barley",
+    "scientific_name": "Hordeum vulgare",
+    "edibility": "Edible (grain)",
+    "soil_preference": "Loamy, moderately fertile soil",
+    "medicinal_uses": "Cholesterol control, digestive fiber",
+    "properties": "Rich in beta-glucan fiber",
+    "cure_precaution": "Contains gluten; avoid if gluten-intolerant"
+  },
+  {
+    "common_name": "Basil",
+    "scientific_name": "Ocimum basilicum",
+    "edibility": "Edible",
+    "soil_preference": "Moist, well-drained soil with sunlight",
+    "medicinal_uses": "Supports digestion, anti-inflammatory",
+    "properties": "Antioxidant, antibacterial",
+    "cure_precaution": "Avoid basil oil in large amounts during pregnancy"
+  },
+  {
+    "common_name": "Bay leaf",
+    "scientific_name": "Laurus nobilis",
+    "edibility": "Edible (flavoring)",
+    "soil_preference": "Well-drained sandy loam",
+    "medicinal_uses": "Digestive aid and respiratory relief",
+    "properties": "Antimicrobial, aromatic",
+    "cure_precaution": "Remove whole leaves before serving; sharp edges"
+  },
+  {
+    "common_name": "Beetroot",
+    "scientific_name": "Beta vulgaris",
+    "edibility": "Edible",
+    "soil_preference": "Loose, loamy, slightly acidic soil",
+    "medicinal_uses": "Lowers blood pressure, detox aid",
+    "properties": "High in nitrates and folate",
+    "cure_precaution": "May cause beeturia (red urine); not harmful"
+  },
+  {
+    "common_name": "Bell pepper",
+    "scientific_name": "Capsicum annuum",
+    "edibility": "Edible",
+    "soil_preference": "Well-drained loamy soil",
+    "medicinal_uses": "Eye health, rich in vitamin C",
+    "properties": "Antioxidant, hydrating",
+    "cure_precaution": "Safe for most; may cause mild allergy"
+  },
+  {
+    "common_name": "Betel leaf",
+    "scientific_name": "Piper betle",
+    "edibility": "Edible (traditional use)",
+    "soil_preference": "Moist, fertile, well-drained soil",
+    "medicinal_uses": "Digestive stimulant, mouth freshener",
+    "properties": "Carminative, antiseptic",
+    "cure_precaution": "Avoid tobacco-wrapped variants; may stain teeth"
+  },
+  {
+    "common_name": "Black pepper",
+    "scientific_name": "Piper nigrum",
+    "edibility": "Edible",
+    "soil_preference": "Well-drained, rich loamy soil",
+    "medicinal_uses": "Aids digestion, relieves cold symptoms",
+    "properties": "Piperine-rich, antioxidant",
+    "cure_precaution": "Excess may cause stomach irritation"
+  },
+  {
+    "common_name": "Blackberry",
+    "scientific_name": "Rubus fruticosus",
+    "edibility": "Edible (berries)",
+    "soil_preference": "Moist, well-drained, slightly acidic soil",
+    "medicinal_uses": "Supports immunity, brain health",
+    "properties": "High in fiber, vitamin C",
+    "cure_precaution": "Wash thoroughly before eating"
+  },
+  {
+    "common_name": "Blueberry",
+    "scientific_name": "Vaccinium spp.",
+    "edibility": "Edible (berries)",
+    "soil_preference": "Acidic, well-drained sandy soil",
+    "medicinal_uses": "Brain health, antioxidant support",
+    "properties": "Rich in anthocyanins and fiber",
+    "cure_precaution": "Generally safe; may interact with blood thinners"
+  },
+  {
+    "common_name": "Brahmi",
+    "scientific_name": "Bacopa monnieri",
+    "edibility": "Edible (medicinal herb)",
+    "soil_preference": "Wet, marshy soil",
+    "medicinal_uses": "Improves memory, reduces anxiety",
+    "properties": "Adaptogenic, neuroprotective",
+    "cure_precaution": "Consult physician for prolonged use"
+  },
+  {
+    "common_name": "Broccoli",
+    "scientific_name": "Brassica oleracea var. italica",
+    "edibility": "Edible",
+    "soil_preference": "Fertile, well-drained soil",
+    "medicinal_uses": "Supports detoxification, rich in fiber",
+    "properties": "High in vitamin C and sulforaphane",
+    "cure_precaution": "May cause gas if eaten raw in excess"
+  },
+  {
+    "common_name": "Buckwheat",
+    "scientific_name": "Fagopyrum esculentum",
+    "edibility": "Edible",
+    "soil_preference": "Well-drained, moderately fertile soil",
+    "medicinal_uses": "Lowers blood pressure, gluten-free grain alternative",
+    "properties": "High in rutin and fiber",
+    "cure_precaution": "Safe; rare allergies may occur"
+  },
+  {
+    "common_name": "Cabbage",
+    "scientific_name": "Brassica oleracea var. capitata",
+    "edibility": "Edible",
+    "soil_preference": "Fertile, well-drained loamy soil",
+    "medicinal_uses": "Supports digestion and heart health",
+    "properties": "Rich in vitamin K and antioxidants",
+    "cure_precaution": "May cause bloating in some individuals"
+  },
+  {
+    "common_name": "Cantaloupe",
+    "scientific_name": "Cucumis melo",
+    "edibility": "Edible (fruit)",
+    "soil_preference": "Sandy, well-drained soil",
+    "medicinal_uses": "Hydration, skin health",
+    "properties": "High in vitamin A and water content",
+    "cure_precaution": "Consume ripe fruit; clean rind before cutting"
+  },
+  {
+    "common_name": "Caraway",
+    "scientific_name": "Carum carvi",
+    "edibility": "Edible (seeds)",
+    "soil_preference": "Well-drained sandy loam",
+    "medicinal_uses": "Relieves bloating and indigestion",
+    "properties": "Carminative, aromatic",
+    "cure_precaution": "Avoid high doses in pregnancy"
+  },
+  {
+    "common_name": "Cardamom",
+    "scientific_name": "Elettaria cardamomum",
+    "edibility": "Edible (pods/seeds)",
+    "soil_preference": "Humid, well-drained forest soil",
+    "medicinal_uses": "Improves digestion and breath",
+    "properties": "Aromatic, antimicrobial",
+    "cure_precaution": "Generally safe; avoid high doses during pregnancy"
+  },
+  {
+    "common_name": "Carrot",
+    "scientific_name": "Daucus carota",
+    "edibility": "Edible (root)",
+    "soil_preference": "Loose, sandy loam",
+    "medicinal_uses": "Supports eye health, immunity",
+    "properties": "Rich in beta-carotene and fiber",
+    "cure_precaution": "Overeating may cause carotenemia (orange skin)"
+  },
+  {
+    "common_name": "Cauliflower",
+    "scientific_name": "Brassica oleracea var. botrytis",
+    "edibility": "Edible",
+    "soil_preference": "Well-drained, fertile soil",
+    "medicinal_uses": "Aids digestion, detox support",
+    "properties": "High in fiber and glucosinolates",
+    "cure_precaution": "May cause bloating if consumed in excess"
+  },
+  {
+    "common_name": "Chamomile",
+    "scientific_name": "Matricaria chamomilla",
+    "edibility": "Edible (flower, tea)",
+    "soil_preference": "Well-drained sandy soil",
+    "medicinal_uses": "Promotes sleep, relieves anxiety",
+    "properties": "Mild sedative, anti-inflammatory",
+    "cure_precaution": "Avoid with ragweed allergy"
+  },
+  {
+    "common_name": "Chickpeas",
+    "scientific_name": "Cicer arietinum",
+    "edibility": "Edible (seed/legume)",
+    "soil_preference": "Well-drained sandy loam",
+    "medicinal_uses": "Supports heart health and digestion",
+    "properties": "High in protein and fiber",
+    "cure_precaution": "Soak and cook well to reduce anti-nutrients"
+  },
+  {
+    "common_name": "Chives",
+    "scientific_name": "Allium schoenoprasum",
+    "edibility": "Edible",
+    "soil_preference": "Moist, well-drained soil",
+    "medicinal_uses": "Improves digestion, mild antimicrobial",
+    "properties": "Rich in vitamin K and sulfur compounds",
+    "cure_precaution": "Safe in normal culinary use"
+  },
+  {
+    "common_name": "Cilantro",
+    "scientific_name": "Coriandrum sativum",
+    "edibility": "Edible",
+    "soil_preference": "Moist, well-drained soil with partial sun",
+    "medicinal_uses": "Aids digestion and detoxification",
+    "properties": "Antioxidant, antimicrobial",
+    "cure_precaution": "Some people may find the taste soapy due to genetics"
+  },
+  {
+    "common_name": "Cinnamon",
+    "scientific_name": "Cinnamomum verum",
+    "edibility": "Edible (bark, spice)",
+    "soil_preference": "Well-drained sandy or loamy soil",
+    "medicinal_uses": "Lowers blood sugar, anti-inflammatory",
+    "properties": "Antioxidant, antimicrobial",
+    "cure_precaution": "Avoid high doses of cassia cinnamon due to coumarin"
+  },
+  {
+    "common_name": "Clove",
+    "scientific_name": "Syzygium aromaticum",
+    "edibility": "Edible (flower buds)",
+    "soil_preference": "Rich, loamy, well-drained soil",
+    "medicinal_uses": "Relieves toothache, aids digestion",
+    "properties": "Antiseptic, analgesic",
+    "cure_precaution": "Use clove oil sparingly; it is very potent"
+  },
+  {
+    "common_name": "Coconut",
+    "scientific_name": "Cocos nucifera",
+    "edibility": "Edible (flesh, water, milk, oil)",
+    "soil_preference": "Sandy, well-drained coastal soil",
+    "medicinal_uses": "Hydration, skin and heart health",
+    "properties": "Antibacterial, hydrating, fatty acids",
+    "cure_precaution": "Moderate intake recommended due to high fat content"
+  },
+  {
+    "common_name": "Collard greens",
+    "scientific_name": "Brassica oleracea var. viridis",
+    "edibility": "Edible",
+    "soil_preference": "Rich, moist, well-drained soil",
+    "medicinal_uses": "Supports bone and heart health",
+    "properties": "High in vitamin K, fiber",
+    "cure_precaution": "Cook before eating to reduce bitterness and gas"
+  },
+  {
+    "common_name": "Coriander",
+    "scientific_name": "Coriandrum sativum",
+    "edibility": "Edible (leaves and seeds)",
+    "soil_preference": "Well-drained loamy soil",
+    "medicinal_uses": "Aids digestion, reduces blood sugar",
+    "properties": "Carminative, antimicrobial",
+    "cure_precaution": "May cause allergic reactions in some people"
+  },
+  {
+    "common_name": "Corn",
+    "scientific_name": "Zea mays",
+    "edibility": "Edible (grain/vegetable)",
+    "soil_preference": "Fertile, well-drained soil with full sun",
+    "medicinal_uses": "Source of fiber and energy",
+    "properties": "Starchy carbohydrate, antioxidant (lutein)",
+    "cure_precaution": "Safe in moderate amounts; choose non-GMO if preferred"
+  },
+  {
+    "common_name": "Cress",
+    "scientific_name": "Lepidium sativum",
+    "edibility": "Edible (leaves)",
+    "soil_preference": "Moist, nutrient-rich soil",
+    "medicinal_uses": "Appetite stimulant, aids digestion",
+    "properties": "Rich in vitamin C and folate",
+    "cure_precaution": "Consume fresh for best benefits"
+  },
+  {
+    "common_name": "Cucumber",
+    "scientific_name": "Cucumis sativus",
+    "edibility": "Edible",
+    "soil_preference": "Moist, loose, fertile soil",
+    "medicinal_uses": "Hydration, skin cooling, diuretic",
+    "properties": "High water content, mild antioxidant",
+    "cure_precaution": "Safe; wash to remove pesticide residues"
+  },
+  {
+    "common_name": "Cumin",
+    "scientific_name": "Cuminum cyminum",
+    "edibility": "Edible (seeds)",
+    "soil_preference": "Dry, well-drained sandy loam",
+    "medicinal_uses": "Improves digestion, boosts metabolism",
+    "properties": "Carminative, aromatic",
+    "cure_precaution": "Avoid excessive intake in pregnancy"
+  },
+  {
+    "common_name": "Curry leaf",
+    "scientific_name": "Murraya koenigii",
+    "edibility": "Edible (leaves)",
+    "soil_preference": "Well-drained loamy soil",
+    "medicinal_uses": "Improves eyesight, digestion, and hair health",
+    "properties": "Antioxidant, antimicrobial",
+    "cure_precaution": "Safe; use fresh for best benefits"
+  },
+  {
+    "common_name": "Dandelion",
+    "scientific_name": "Taraxacum officinale",
+    "edibility": "Edible (leaves, flowers, roots)",
+    "soil_preference": "Loamy, fertile soil",
+    "medicinal_uses": "Liver detox, diuretic",
+    "properties": "Rich in vitamins A, C, and K",
+    "cure_precaution": "Avoid if allergic to ragweed family"
+  },
+  {
+    "common_name": "Date",
+    "scientific_name": "Phoenix dactylifera",
+    "edibility": "Edible (fruit)",
+    "soil_preference": "Sandy, well-drained desert soil",
+    "medicinal_uses": "Energy boost, relieves constipation",
+    "properties": "High in natural sugars and fiber",
+    "cure_precaution": "Limit in diabetes due to high sugar content"
+  },
+  {
+    "common_name": "Dill",
+    "scientific_name": "Anethum graveolens",
+    "edibility": "Edible (leaves and seeds)",
+    "soil_preference": "Light, well-drained soil",
+    "medicinal_uses": "Eases digestion, calms hiccups and gas",
+    "properties": "Carminative, antimicrobial",
+    "cure_precaution": "Avoid high doses during pregnancy"
+  },
+  {
+    "common_name": "Elephant foot yam",
+    "scientific_name": "Amorphophallus paeoniifolius",
+    "edibility": "Edible (cooked)",
+    "soil_preference": "Moist, well-drained soil",
+    "medicinal_uses": "Weight management, digestive health",
+    "properties": "Rich in fiber and minerals",
+    "cure_precaution": "Must be thoroughly cooked; raw form may cause irritation"
+  },
+  {
+    "common_name": "Eucalyptus",
+    "scientific_name": "Eucalyptus globulus",
+    "edibility": "Edible (medicinal use only)",
+    "soil_preference": "Well-drained, sandy or loamy soil",
+    "medicinal_uses": "Relieves cold, sore throat, and congestion",
+    "properties": "Antiseptic, anti-inflammatory",
+    "cure_precaution": "Oil is toxic if ingested in large amounts"
+  },
+  {
+    "common_name": "Fennel",
+    "scientific_name": "Foeniculum vulgare",
+    "edibility": "Edible (bulb, leaves, seeds)",
+    "soil_preference": "Well-drained, loamy soil",
+    "medicinal_uses": "Aids digestion and reduces bloating",
+    "properties": "Carminative, aromatic",
+    "cure_precaution": "Safe in food amounts; avoid excess in pregnancy"
+  },
+  {
+    "common_name": "Fenugreek",
+    "scientific_name": "Trigonella foenum-graecum",
+    "edibility": "Edible (leaves and seeds)",
+    "soil_preference": "Well-drained loamy soil",
+    "medicinal_uses": "Controls blood sugar, improves lactation",
+    "properties": "Antidiabetic, anti-inflammatory",
+    "cure_precaution": "Avoid in pregnancy; may lower blood sugar too much"
+  },
+  {
+    "common_name": "Fig",
+    "scientific_name": "Ficus carica",
+    "edibility": "Edible (fruit)",
+    "soil_preference": "Well-drained loamy soil",
+    "medicinal_uses": "Relieves constipation, boosts digestion",
+    "properties": "High in fiber and antioxidants",
+    "cure_precaution": "Latex from unripe figs may cause irritation"
+  },
+  {
+    "common_name": "Flax",
+    "scientific_name": "Linum usitatissimum",
+    "edibility": "Edible (seeds and oil)",
+    "soil_preference": "Well-drained, fertile soil",
+    "medicinal_uses": "Supports heart and digestive health",
+    "properties": "High in omega-3 and lignans",
+    "cure_precaution": "Consume ground seeds; whole seeds may pass undigested"
+  },
+  {
+    "common_name": "Ginger",
+    "scientific_name": "Zingiber officinale",
+    "edibility": "Edible (rhizome)",
+    "soil_preference": "Loamy, well-drained soil rich in organic matter",
+    "medicinal_uses": "Relieves nausea, improves circulation",
+    "properties": "Anti-inflammatory, warming",
+    "cure_precaution": "Avoid excessive amounts if on blood thinners"
+  },
+  {
+    "common_name": "Ginseng",
+    "scientific_name": "Panax ginseng",
+    "edibility": "Edible (medicinal root)",
+    "soil_preference": "Cool, shaded, well-drained soil",
+    "medicinal_uses": "Boosts energy, reduces stress",
+    "properties": "Adaptogen, immune-enhancing",
+    "cure_precaution": "Use in moderation; may raise blood pressure"
+  },
+  {
+    "common_name": "Gotu kola",
+    "scientific_name": "Centella asiatica",
+    "edibility": "Edible (leaves)",
+    "soil_preference": "Moist, marshy soil",
+    "medicinal_uses": "Improves memory, wound healing",
+    "properties": "Neuroprotective, anti-anxiety",
+    "cure_precaution": "Long-term use may affect liver; take breaks"
+  },
+  {
+    "common_name": "Grapes",
+    "scientific_name": "Vitis vinifera",
+    "edibility": "Edible (fruit)",
+    "soil_preference": "Well-drained, sandy loam",
+    "medicinal_uses": "Heart health, antioxidant support",
+    "properties": "Rich in resveratrol and vitamin C",
+    "cure_precaution": "Wash thoroughly; may have pesticide residues"
+  },
+  {
+    "common_name": "Green beans",
+    "scientific_name": "Phaseolus vulgaris",
+    "edibility": "Edible (pods)",
+    "soil_preference": "Loamy, well-drained soil",
+    "medicinal_uses": "Supports weight loss, digestive health",
+    "properties": "Low-calorie, rich in fiber and vitamins",
+    "cure_precaution": "Cook before eating; raw pods may contain lectins"
+  },
+  {
+    "common_name": "Guava",
+    "scientific_name": "Psidium guajava",
+    "edibility": "Edible (fruit and leaves)",
+    "soil_preference": "Well-drained sandy or loamy soil",
+    "medicinal_uses": "Improves digestion, supports immunity",
+    "properties": "Rich in vitamin C and fiber",
+    "cure_precaution": "Leaves may cause constipation if overused"
+  },
+  {
+    "common_name": "Hemp",
+    "scientific_name": "Cannabis sativa (low THC)",
+    "edibility": "Edible (seeds and oil)",
+    "soil_preference": "Well-drained, nutrient-rich soil",
+    "medicinal_uses": "Rich in protein and omega-3",
+    "properties": "Anti-inflammatory, nutritious",
+    "cure_precaution": "Ensure THC levels are compliant; avoid unregulated products"
+  },
+  {
+    "common_name": "Horseradish",
+    "scientific_name": "Armoracia rusticana",
+    "edibility": "Edible (root)",
+    "soil_preference": "Moist, fertile, well-drained soil",
+    "medicinal_uses": "Clears sinuses, aids digestion",
+    "properties": "Pungent, antimicrobial",
+    "cure_precaution": "Can irritate mucous membranes; use cautiously"
+  },
+  {
+    "common_name": "Jasmine",
+    "scientific_name": "Jasminum officinale",
+    "edibility": "Edible (flowers for tea and fragrance)",
+    "soil_preference": "Well-drained sandy loam",
+    "medicinal_uses": "Relieves stress and supports relaxation",
+    "properties": "Aromatic, mild sedative",
+    "cure_precaution": "Ensure correct variety; not all jasmines are edible"
+  },
+  {
+    "common_name": "Kale",
+    "scientific_name": "Brassica oleracea var. sabellica",
+    "edibility": "Edible (leaves)",
+    "soil_preference": "Cool, moist, well-drained soil",
+    "medicinal_uses": "Rich in vitamins A, C, K; supports immunity",
+    "properties": "Antioxidant, anti-inflammatory",
+    "cure_precaution": "Cook lightly to reduce bitterness and oxalates"
+  },
+  {
+    "common_name": "Kudzu",
+    "scientific_name": "Pueraria montana",
+    "edibility": "Edible (roots and leaves)",
+    "soil_preference": "Well-drained, slightly acidic soil",
+    "medicinal_uses": "Used for alcohol dependence and inflammation",
+    "properties": "Isoflavone-rich, antioxidant",
+    "cure_precaution": "Avoid excessive use; may interfere with medications"
+  },
+  {
+    "common_name": "Lavender",
+    "scientific_name": "Lavandula angustifolia",
+    "edibility": "Edible (flowers for tea, garnish)",
+    "soil_preference": "Well-drained, slightly alkaline soil",
+    "medicinal_uses": "Reduces anxiety, improves sleep",
+    "properties": "Calming, aromatic",
+    "cure_precaution": "Use small amounts; strong flavor and aroma"
+  },
+  {
+    "common_name": "Lemon",
+    "scientific_name": "Citrus limon",
+    "edibility": "Edible (fruit and zest)",
+    "soil_preference": "Well-drained sandy or loamy soil",
+    "medicinal_uses": "Boosts immunity, aids digestion",
+    "properties": "Rich in vitamin C, antibacterial",
+    "cure_precaution": "Acidic; avoid excess if you have ulcers"
+  },
+  {
+    "common_name": "Lemongrass",
+    "scientific_name": "Cymbopogon citratus",
+    "edibility": "Edible (stems, tea)",
+    "soil_preference": "Moist, well-drained soil",
+    "medicinal_uses": "Relieves anxiety, supports digestion",
+    "properties": "Aromatic, antimicrobial",
+    "cure_precaution": "Avoid high doses in pregnancy"
+  },
+  {
+    "common_name": "Lentils",
+    "scientific_name": "Lens culinaris",
+    "edibility": "Edible (seeds)",
+    "soil_preference": "Well-drained loamy soil",
+    "medicinal_uses": "Improves heart health and digestion",
+    "properties": "Rich in protein, fiber, iron",
+    "cure_precaution": "Cook thoroughly to reduce anti-nutrients"
+  },
+  {
+    "common_name": "Lettuce",
+    "scientific_name": "Lactuca sativa",
+    "edibility": "Edible (leaves)",
+    "soil_preference": "Cool, moist, well-drained soil",
+    "medicinal_uses": "Hydrating, aids digestion",
+    "properties": "Low calorie, mild sedative",
+    "cure_precaution": "Wash before eating; perishable"
+  },
+  {
+    "common_name": "Lime",
+    "scientific_name": "Citrus aurantiifolia",
+    "edibility": "Edible (fruit and zest)",
+    "soil_preference": "Well-drained sandy loam",
+    "medicinal_uses": "Boosts immunity, supports collagen production",
+    "properties": "Vitamin C-rich, antimicrobial",
+    "cure_precaution": "May cause photosensitivity on skin"
+  },
+  {
+    "common_name": "Lotus root",
+    "scientific_name": "Nelumbo nucifera",
+    "edibility": "Edible (root)",
+    "soil_preference": "Muddy, aquatic soil",
+    "medicinal_uses": "Aids digestion and circulation",
+    "properties": "Rich in fiber, vitamins C and B6",
+    "cure_precaution": "Cook before eating to improve digestibility"
+  },
+  {
+    "common_name": "Lovage",
+    "scientific_name": "Levisticum officinale",
+    "edibility": "Edible (leaves, stems, seeds)",
+    "soil_preference": "Rich, moist, well-drained soil",
+    "medicinal_uses": "Diuretic, relieves bloating",
+    "properties": "Aromatic, carminative",
+    "cure_precaution": "Use in moderation; can be a strong diuretic"
+  },
+  {
+    "common_name": "Mango",
+    "scientific_name": "Mangifera indica",
+    "edibility": "Edible (fruit)",
+    "soil_preference": "Deep, well-drained sandy loam",
+    "medicinal_uses": "Boosts immunity, aids digestion",
+    "properties": "High in vitamin A, C and antioxidants",
+    "cure_precaution": "Peel can cause allergic reactions in sensitive individuals"
+  },
+  {
+    "common_name": "Marigold",
+    "scientific_name": "Calendula officinalis",
+    "edibility": "Edible (petals)",
+    "soil_preference": "Well-drained sandy or loamy soil",
+    "medicinal_uses": "Wound healing, skin care",
+    "properties": "Anti-inflammatory, antiseptic",
+    "cure_precaution": "Ensure it's Calendula; not all marigolds are edible"
+  },
+  {
+    "common_name": "Marjoram",
+    "scientific_name": "Origanum majorana",
+    "edibility": "Edible (leaves)",
+    "soil_preference": "Light, well-drained soil",
+    "medicinal_uses": "Calms nerves, improves digestion",
+    "properties": "Aromatic, antimicrobial",
+    "cure_precaution": "Avoid high doses during pregnancy"
+  },
+  {
+    "common_name": "Mint",
+    "scientific_name": "Mentha spp.",
+    "edibility": "Edible (leaves)",
+    "soil_preference": "Moist, rich, well-drained soil",
+    "medicinal_uses": "Soothes digestion, relieves nausea",
+    "properties": "Cooling, carminative",
+    "cure_precaution": "Use moderately; too much may affect iron absorption"
+  },
+  {
+    "common_name": "Moringa",
+    "scientific_name": "Moringa oleifera",
+    "edibility": "Edible (leaves, pods)",
+    "soil_preference": "Sandy or loamy well-drained soil",
+    "medicinal_uses": "Boosts immunity, supports nutrition",
+    "properties": "Rich in vitamins A, C, calcium",
+    "cure_precaution": "May interact with medications; avoid large doses"
+  },
+  {
+    "common_name": "Mung beans",
+    "scientific_name": "Vigna radiata",
+    "edibility": "Edible (seeds, sprouts)",
+    "soil_preference": "Well-drained sandy loam",
+    "medicinal_uses": "Improves digestion, detox support",
+    "properties": "High in protein and antioxidants",
+    "cure_precaution": "Sprouts should be rinsed thoroughly before use"
+  },
+  {
+    "common_name": "Mustard greens",
+    "scientific_name": "Brassica juncea",
+    "edibility": "Edible (leaves)",
+    "soil_preference": "Moist, fertile, well-drained soil",
+    "medicinal_uses": "Supports detoxification, rich in antioxidants",
+    "properties": "High in vitamins A, C, K and fiber",
+    "cure_precaution": "Cook to reduce bitterness and oxalates"
+  },
+  {
+    "common_name": "Neem",
+    "scientific_name": "Azadirachta indica",
+    "edibility": "Edible (medicinal use only)",
+    "soil_preference": "Well-drained, sandy or loamy soil",
+    "medicinal_uses": "Antibacterial, supports skin and oral health",
+    "properties": "Antifungal, antiviral, bitter tonic",
+    "cure_precaution": "Do not consume in large amounts; especially not for children or pregnant women"
+  },
+  {
+    "common_name": "Nettle",
+    "scientific_name": "Urtica dioica",
+    "edibility": "Edible (cooked leaves)",
+    "soil_preference": "Moist, nitrogen-rich soil",
+    "medicinal_uses": "Relieves allergies, supports urinary health",
+    "properties": "Anti-inflammatory, mineral-rich",
+    "cure_precaution": "Must be cooked to remove stinging hairs"
+  },
+  {
+    "common_name": "Nutmeg",
+    "scientific_name": "Myristica fragrans",
+    "edibility": "Edible (seed, spice)",
+    "soil_preference": "Well-drained, loamy tropical soil",
+    "medicinal_uses": "Aids digestion, relieves insomnia",
+    "properties": "Aromatic, stimulant in small amounts",
+    "cure_precaution": "Toxic in high doses; use sparingly"
+  },
+  {
+    "common_name": "Okra",
+    "scientific_name": "Abelmoschus esculentus",
+    "edibility": "Edible (pods)",
+    "soil_preference": "Warm, well-drained loamy soil",
+    "medicinal_uses": "Supports digestion, blood sugar control",
+    "properties": "Mucilaginous, antioxidant-rich",
+    "cure_precaution": "Wash to remove pesticide; cook well to reduce sliminess"
+  },
+  {
+    "common_name": "Orange",
+    "scientific_name": "Citrus sinensis",
+    "edibility": "Edible (fruit)",
+    "soil_preference": "Well-drained, slightly acidic loam",
+    "medicinal_uses": "Boosts immunity, collagen formation",
+    "properties": "Rich in vitamin C and flavonoids",
+    "cure_precaution": "Citrus acidity may irritate ulcers"
+  },
+  {
+    "common_name": "Oregano",
+    "scientific_name": "Origanum vulgare",
+    "edibility": "Edible (leaves)",
+    "soil_preference": "Sandy, well-drained soil",
+    "medicinal_uses": "Fights infections, aids digestion",
+    "properties": "Antimicrobial, aromatic",
+    "cure_precaution": "Essential oil is potent; dilute before use"
+  },
+  {
+    "common_name": "Papaya",
+    "scientific_name": "Carica papaya",
+    "edibility": "Edible (fruit and leaves)",
+    "soil_preference": "Well-drained, fertile loamy soil",
+    "medicinal_uses": "Improves digestion, anti-inflammatory",
+    "properties": "Rich in papain, vitamin C",
+    "cure_precaution": "Unripe fruit and seeds should be avoided during pregnancy"
+  },
+  {
+    "common_name": "Parsley",
+    "scientific_name": "Petroselinum crispum",
+    "edibility": "Edible (leaves)",
+    "soil_preference": "Moist, well-drained loamy soil",
+    "medicinal_uses": "Aids kidney function, freshens breath",
+    "properties": "Rich in vitamins A, C, K",
+    "cure_precaution": "Avoid high doses during pregnancy"
+  },
+  {
+    "common_name": "Pear",
+    "scientific_name": "Pyrus communis",
+    "edibility": "Edible (fruit)",
+    "soil_preference": "Well-drained loamy soil",
+    "medicinal_uses": "Supports digestion and hydration",
+    "properties": "High in fiber, low glycemic index",
+    "cure_precaution": "Generally safe; wash to remove surface residues"
+  },
+  {
+    "common_name": "Peas",
+    "scientific_name": "Pisum sativum",
+    "edibility": "Edible (pods and seeds)",
+    "soil_preference": "Cool, well-drained, fertile soil",
+    "medicinal_uses": "Supports weight loss, digestive health",
+    "properties": "Rich in protein and fiber",
+    "cure_precaution": "May cause bloating if eaten raw"
+  },
+  {
+    "common_name": "Pineapple",
+    "scientific_name": "Ananas comosus",
+    "edibility": "Edible (fruit)",
+    "soil_preference": "Sandy, well-drained soil",
+    "medicinal_uses": "Aids digestion, anti-inflammatory",
+    "properties": "Rich in bromelain and vitamin C",
+    "cure_precaution": "Excess may cause mouth irritation"
+  },
+  {
+    "common_name": "Pomegranate",
+    "scientific_name": "Punica granatum",
+    "edibility": "Edible (fruit)",
+    "soil_preference": "Well-drained loamy soil",
+    "medicinal_uses": "Supports heart health and immunity",
+    "properties": "High in polyphenols and antioxidants",
+    "cure_precaution": "Juice may interact with blood pressure medications"
+  },
+  {
+    "common_name": "Potato",
+    "scientific_name": "Solanum tuberosum",
+    "edibility": "Edible (tuber)",
+    "soil_preference": "Loose, well-drained loamy soil",
+    "medicinal_uses": "Provides energy, digestive aid (boiled)",
+    "properties": "Starchy, rich in potassium",
+    "cure_precaution": "Do not eat green or sprouted potatoes (toxic solanine)"
+  },
+  {
+    "common_name": "Pumpkin",
+    "scientific_name": "Cucurbita pepo",
+    "edibility": "Edible (flesh and seeds)",
+    "soil_preference": "Fertile, well-drained soil",
+    "medicinal_uses": "Supports immunity and prostate health",
+    "properties": "Rich in beta-carotene and zinc",
+    "cure_precaution": "Generally safe; avoid bitter varieties"
+  },
+  {
+    "common_name": "Purslane",
+    "scientific_name": "Portulaca oleracea",
+    "edibility": "Edible (leaves and stems)",
+    "soil_preference": "Well-drained, sandy soil",
+    "medicinal_uses": "Anti-inflammatory, supports heart health",
+    "properties": "Rich in omega-3, antioxidants",
+    "cure_precaution": "Wash thoroughly; may accumulate soil contaminants"
+  },
+  {
+    "common_name": "Quinoa",
+    "scientific_name": "Chenopodium quinoa",
+    "edibility": "Edible (seeds and leaves)",
+    "soil_preference": "Well-drained sandy or loamy soil",
+    "medicinal_uses": "Complete protein source, supports metabolism",
+    "properties": "High in protein, fiber, and minerals",
+    "cure_precaution": "Rinse seeds before cooking to remove saponins"
+  },
+  {
+    "common_name": "Radish",
+    "scientific_name": "Raphanus sativus",
+    "edibility": "Edible (root and leaves)",
+    "soil_preference": "Loose, well-drained soil",
+    "medicinal_uses": "Aids digestion, detoxification",
+    "properties": "Rich in fiber and vitamin C",
+    "cure_precaution": "May cause gas or bloating in some people"
+  },
+  {
+    "common_name": "Raspberry",
+    "scientific_name": "Rubus idaeus",
+    "edibility": "Edible (berries and leaves)",
+    "soil_preference": "Well-drained, slightly acidic soil",
+    "medicinal_uses": "Supports female health, digestion",
+    "properties": "High in antioxidants, fiber",
+    "cure_precaution": "Wash before use; may have pesticide residues"
+  },
+  {
+    "common_name": "Rice",
+    "scientific_name": "Oryza sativa",
+    "edibility": "Edible (grain)",
+    "soil_preference": "Flooded or wet, clayey soil",
+    "medicinal_uses": "Provides energy, soothes the stomach",
+    "properties": "Starch-rich, easily digestible",
+    "cure_precaution": "Store dry to avoid fungal contamination"
+  },
+  {
+    "common_name": "Rose",
+    "scientific_name": "Rosa spp.",
+    "edibility": "Edible (petals, hips)",
+    "soil_preference": "Well-drained loamy soil",
+    "medicinal_uses": "Relieves stress, supports skin health",
+    "properties": "Aromatic, antioxidant-rich",
+    "cure_precaution": "Ensure unsprayed, edible varieties are used"
+  },
+  {
+    "common_name": "Rosemary",
+    "scientific_name": "Salvia rosmarinus",
+    "edibility": "Edible (leaves)",
+    "soil_preference": "Sandy, well-drained soil",
+    "medicinal_uses": "Improves memory and circulation",
+    "properties": "Antioxidant, antimicrobial",
+    "cure_precaution": "Avoid concentrated oil in pregnancy"
+  },
+  {
+    "common_name": "Saffron",
+    "scientific_name": "Crocus sativus",
+    "edibility": "Edible (stigmas)",
+    "soil_preference": "Well-drained, loamy or sandy soil",
+    "medicinal_uses": "Mood enhancer, antioxidant",
+    "properties": "Carotenoid-rich, aromatic",
+    "cure_precaution": "Use in small quantities; high doses are toxic"
+  },
+  {
+    "common_name": "Sage",
+    "scientific_name": "Salvia officinalis",
+    "edibility": "Edible (leaves)",
+    "soil_preference": "Sandy or loamy well-drained soil",
+    "medicinal_uses": "Soothes sore throat, aids digestion",
+    "properties": "Antibacterial, aromatic",
+    "cure_precaution": "Avoid medicinal amounts in pregnancy due to thujone"
+  },
+  {
+    "common_name": "Sesame",
+    "scientific_name": "Sesamum indicum",
+    "edibility": "Edible (seeds and oil)",
+    "soil_preference": "Well-drained sandy loam",
+    "medicinal_uses": "Supports heart health, antioxidant benefits",
+    "properties": "Rich in calcium and lignans",
+    "cure_precaution": "May cause allergic reaction in some individuals"
+  },
+  {
+    "common_name": "Shatavari",
+    "scientific_name": "Asparagus racemosus",
+    "edibility": "Edible (medicinal root)",
+    "soil_preference": "Sandy or loamy, well-drained soil",
+    "medicinal_uses": "Supports female reproductive health",
+    "properties": "Adaptogenic, hormone-balancing",
+    "cure_precaution": "Avoid use in estrogen-sensitive conditions"
+  },
+  {
+    "common_name": "Soybeans",
+    "scientific_name": "Glycine max",
+    "edibility": "Edible (beans)",
+    "soil_preference": "Loamy, fertile, well-drained soil",
+    "medicinal_uses": "Rich in protein, supports bone and heart health",
+    "properties": "Isoflavones, complete protein",
+    "cure_precaution": "Fermented forms are easier to digest"
+  },
+  {
+    "common_name": "Spinach",
+    "scientific_name": "Spinacia oleracea",
+    "edibility": "Edible (leaves)",
+    "soil_preference": "Cool, well-drained loamy soil",
+    "medicinal_uses": "Rich in iron, supports eye health",
+    "properties": "High in antioxidants and folate",
+    "cure_precaution": "Cook lightly to reduce oxalates"
+  },
+  {
+    "common_name": "Squash",
+    "scientific_name": "Cucurbita spp.",
+    "edibility": "Edible (fruit and seeds)",
+    "soil_preference": "Rich, well-drained soil",
+    "medicinal_uses": "Improves digestion, boosts immunity",
+    "properties": "Rich in fiber and vitamins",
+    "cure_precaution": "Avoid bitter varieties which may contain toxins"
+  },
+  {
+    "common_name": "Strawberry",
+    "scientific_name": "Fragaria  ananassa",
+    "edibility": "Edible (fruit)",
+    "soil_preference": "Slightly acidic, well-drained soil",
+    "medicinal_uses": "Boosts immunity and skin health",
+    "properties": "Rich in vitamin C and flavonoids",
+    "cure_precaution": "Wash thoroughly to remove residues"
+  },
+  {
+    "common_name": "Sugar snap peas",
+    "scientific_name": "Pisum sativum var. macrocarpon",
+    "edibility": "Edible (pods and seeds)",
+    "soil_preference": "Cool, moist, well-drained soil",
+    "medicinal_uses": "Supports digestion and heart health",
+    "properties": "Rich in fiber, vitamin C, and protein",
+    "cure_precaution": "Consume fresh or lightly cooked for best nutrition"
+  },
+  {
+    "common_name": "Sunflower",
+    "scientific_name": "Helianthus annuus",
+    "edibility": "Edible (seeds and oil)",
+    "soil_preference": "Well-drained, fertile soil with full sun",
+    "medicinal_uses": "Heart health, energy source",
+    "properties": "Rich in vitamin E, selenium, and healthy fats",
+    "cure_precaution": "May trigger seed allergies in some people"
+  },
+  {
+    "common_name": "Sweet potato",
+    "scientific_name": "Ipomoea batatas",
+    "edibility": "Edible (tuber and young leaves)",
+    "soil_preference": "Sandy, well-drained soil",
+    "medicinal_uses": "Supports vision and immune function",
+    "properties": "High in beta-carotene and fiber",
+    "cure_precaution": "Avoid green or sprouted tubers"
+  },
+  {
+    "common_name": "Swiss chard",
+    "scientific_name": "Beta vulgaris subsp. cicla",
+    "edibility": "Edible (leaves and stalks)",
+    "soil_preference": "Rich, moist, well-drained soil",
+    "medicinal_uses": "Regulates blood sugar, supports bone health",
+    "properties": "High in magnesium, vitamin K, and antioxidants",
+    "cure_precaution": "Contains oxalates; moderate in kidney stone patients"
+  },
+  {
+    "common_name": "Tamarind",
+    "scientific_name": "Tamarindus indica",
+    "edibility": "Edible (pulp)",
+    "soil_preference": "Deep, loamy, well-drained soil",
+    "medicinal_uses": "Digestive aid, laxative",
+    "properties": "Rich in tartaric acid and antioxidants",
+    "cure_precaution": "High acidity; avoid in ulcers or sensitive stomachs"
+  },
+  {
+    "common_name": "Tarragon",
+    "scientific_name": "Artemisia dracunculus",
+    "edibility": "Edible (leaves)",
+    "soil_preference": "Well-drained sandy or loamy soil",
+    "medicinal_uses": "Appetite stimulant, aids digestion",
+    "properties": "Aromatic, mild sedative",
+    "cure_precaution": "Avoid large medicinal doses; contains estragole"
+  },
+  {
+    "common_name": "Thyme",
+    "scientific_name": "Thymus vulgaris",
+    "edibility": "Edible (leaves)",
+    "soil_preference": "Dry, well-drained, slightly alkaline soil",
+    "medicinal_uses": "Cough relief, antimicrobial support",
+    "properties": "Antioxidant, antiseptic",
+    "cure_precaution": "Generally safe; high doses may affect thyroid"
+  },
+  {
+    "common_name": "Tomato",
+    "scientific_name": "Solanum lycopersicum",
+    "edibility": "Edible (fruit)",
+    "soil_preference": "Well-drained loamy soil with good sunlight",
+    "medicinal_uses": "Heart health, reduces inflammation",
+    "properties": "Rich in lycopene, vitamin C, and potassium",
+    "cure_precaution": "Avoid leaves and stems; they contain toxic solanine"
+  }, 
+  {
+    "common_name": "Tulsi",
+    "scientific_name": "Ocimum tenuiflorum",
+    "edibility": "Edible (leaves, medicinal)",
+    "soil_preference": "Well-drained, fertile soil with sunlight",
+    "medicinal_uses": "Boosts immunity, reduces stress",
+    "properties": "Adaptogenic, antimicrobial",
+    "cure_precaution": "Safe in small amounts; avoid excessive use in pregnancy"
+  },
+  {
+    "common_name": "Turmeric",
+    "scientific_name": "Curcuma longa",
+    "edibility": "Edible (rhizome)",
+    "soil_preference": "Well-drained loamy or sandy soil",
+    "medicinal_uses": "Anti-inflammatory, antioxidant",
+    "properties": "Rich in curcumin",
+    "cure_precaution": "May cause stomach upset in high doses"
+  },
+  {
+    "common_name": "Turnip",
+    "scientific_name": "Brassica rapa subsp. rapa",
+    "edibility": "Edible (root and greens)",
+    "soil_preference": "Loose, well-drained soil",
+    "medicinal_uses": "Supports digestion, rich in fiber",
+    "properties": "Low-calorie, vitamin-rich",
+    "cure_precaution": "Cook greens to reduce bitterness and oxalates"
+  },
+  {
+    "common_name": "Watercress",
+    "scientific_name": "Nasturtium officinale",
+    "edibility": "Edible (leaves and stems)",
+    "soil_preference": "Wet, nutrient-rich soil near water",
+    "medicinal_uses": "Supports thyroid and bone health",
+    "properties": "Rich in vitamin K and antioxidants",
+    "cure_precaution": "Consume fresh; wash well to remove waterborne contaminants"
+  },
+  {
+    "common_name": "Watermelon",
+    "scientific_name": "Citrullus lanatus",
+    "edibility": "Edible (fruit and seeds)",
+    "soil_preference": "Sandy, well-drained soil",
+    "medicinal_uses": "Hydration, improves circulation",
+    "properties": "High in lycopene and water content",
+    "cure_precaution": "Generally safe; eat ripe fruit"
+  },
+  {
+    "common_name": "Wheat",
+    "scientific_name": "Triticum aestivum",
+    "edibility": "Edible (grain)",
+    "soil_preference": "Well-drained, fertile loam",
+    "medicinal_uses": "Energy source, supports gut health",
+    "properties": "High in carbohydrates and gluten",
+    "cure_precaution": "Avoid if gluten intolerant"
+  },
+  {
+    "common_name": "Zucchini",
+    "scientific_name": "Cucurbita pepo",
+    "edibility": "Edible (fruit)",
+    "soil_preference": "Fertile, well-drained soil",
+    "medicinal_uses": "Supports eye health and digestion",
+    "properties": "Low-calorie, high in vitamin C",
+    "cure_precaution": "Avoid bitter fruits (possible toxin buildup)"
+  }
+]
