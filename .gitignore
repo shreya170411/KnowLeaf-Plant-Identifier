@@ -1,0 +1,109 @@
+# ================================
+# Byte-compiled / optimized / DLL files
+# ================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+
+# ================================
+# Virtual Environments
+# ================================
+venv/
+env/
+ENV/
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ================================
+# IDE settings
+# ================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*.iml
+*.ipr
+*.iws
+
+# ================================
+# OS metadata
+# ================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ================================
+# Large Dataset Folders (Handled via Kaggle/Drive)
+# ================================
+data/raw/
+data/processed/
+new/
+segmented/
+final_train/
+final_val/
+
+# ================================
+# Trained Model Files (Too large for GitHub)
+# ================================
+*.keras
+*.h5
+*.hdf5
+*.pb
+*.ckpt
+*.savedmodel
+
+# ================================
+# Compressed / Archive Files
+# ================================
+*.zip
+*.tar.gz
+*.7z
+*.rar
+
+# ================================
+# Logs, Checkpoints, and Temporary Files
+# ================================
+*.log
+checkpoints/
+logs/
+temp/
+tmp/
+*.out
+
+# ================================
+# Jupyter Notebooks (Optional – uncomment if needed)
+# ================================
+.ipynb_checkpoints/
+*.ipynb
+
+# ================================
+# Kaggle API credentials (Security)
+# ================================
+.kaggle/
+kaggle.json
+
+# ================================
+# Environment variables / Secrets
+# ================================
+.env
+*.env
+
+# ================================
+# Generated Evaluation Outputs (Keep only what you need)
+# ================================
+# Uncomment below to ignore all generated images/tables
+# *.png
+# *.pdf
+# *.csv
+# *.tex
+
+# ================================
+# Streamlit specific
+# ================================
+.streamlit/
