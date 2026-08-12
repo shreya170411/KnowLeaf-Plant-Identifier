@@ -2,6 +2,7 @@ import time
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 import tensorflow as tf
 
 from tensorflow.keras.models import load_model
@@ -27,6 +28,7 @@ TEST_DIR = "D:/Project/final_val"
 IMG_SIZE = (224, 224)
 BATCH = 32
 TAU = 0.58
+CLASSES = ["Non-Poisonous", "Poisonous"]
 
 # =========================
 # Load models
@@ -89,6 +91,27 @@ cm_resnet = confusion_matrix(y_true, pred_r)
 cm_densenet = confusion_matrix(y_true, pred_d)
 cm_ens = confusion_matrix(y_true, pred_ens)
 cm_ens_tau = confusion_matrix(y_true, pred_ens_tau)
+
+# =========================
+# NEW: Plot Confusion Matrices
+# =========================
+def plot_cm(cm, title, fname):
+    plt.figure(figsize=(4, 4))
+    sns.heatmap(
+        cm, annot=True, fmt="d", cmap="Blues", cbar=False,
+        xticklabels=CLASSES, yticklabels=CLASSES
+    )
+    plt.xlabel("Predicted")
+    plt.ylabel("True")
+    plt.title(title)
+    plt.tight_layout()
+    plt.savefig(fname)
+    plt.close()
+
+plot_cm(cm_resnet,   "ResNet50",            "cm_resnet.png")
+plot_cm(cm_densenet, "DenseNet121",         "cm_densenet.png")
+plot_cm(cm_ens,      "Ensemble (Baseline)", "cm_ensemble.png")
+plot_cm(cm_ens_tau,  "Ensemble + τ",        "cm_ensemble_tau.png")
 
 # =========================
 # Metrics from CM
@@ -243,3 +266,12 @@ plt.legend(loc="lower left")
 plt.tight_layout()
 plt.savefig("precision_recall_curve.png", dpi=300)
 plt.close()
+
+print("✅ All figures generated:")
+print("  - cm_resnet.png")
+print("  - cm_densenet.png")
+print("  - cm_ensemble.png")
+print("  - cm_ensemble_tau.png")
+print("  - performance_metrics_table.png")
+print("  - accuracy_inference_tradeoff.png")
+print("  - precision_recall_curve.png")
