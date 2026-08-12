@@ -1,5 +1,5 @@
 African milk bush
-Angel's trumpet
+Angels_trumpet
 Arrowgrass
 Autumn crocus
 Belladonna lily
@@ -32,7 +32,7 @@ Daphne mezereum
 Datura
 Deadly nightshade
 Desert rose
-Devil's club
+Devils_club
 Dogbane
 Dogwood
 Dumb cane
@@ -41,7 +41,7 @@ English ivy
 European spindle
 False hellebore
 Flame lily
-Four o'clock
+Four_oclock
 Foxglove
 Frangipani
 Giant hogweed
