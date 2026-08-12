@@ -113,7 +113,7 @@ KnowLeaf-Plant-Identifier/
 ├── UI/
 │   └── app_code.py                      # Streamlit web application
 │
-└── figures/                             # Evaluation visualisations
+└── figures/                             # Evaluation visualizations
     ├── performance_metrics_table.png
     ├── accuracy_inference_tradeoff_final.png
     ├── precision_recall_curve.png
