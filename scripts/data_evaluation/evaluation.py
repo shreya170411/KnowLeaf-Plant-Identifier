@@ -24,7 +24,7 @@ plt.rcParams.update({
 # =========================
 # Config
 # =========================
-TEST_DIR = "D:/Project/final_val"
+TEST_DIR = "D:/Project/final_val"          # Change if needed
 IMG_SIZE = (224, 224)
 BATCH = 32
 TAU = 0.58
@@ -93,7 +93,7 @@ cm_ens = confusion_matrix(y_true, pred_ens)
 cm_ens_tau = confusion_matrix(y_true, pred_ens_tau)
 
 # =========================
-# NEW: Plot Confusion Matrices
+# Plot Confusion Matrices
 # =========================
 def plot_cm(cm, title, fname):
     plt.figure(figsize=(4, 4))
@@ -212,36 +212,70 @@ plt.savefig("performance_metrics_table.png", bbox_inches="tight", dpi=300)
 plt.close()
 
 # =========================
-# Accuracy vs Inference Trade-off
+# Accuracy vs Inference Trade-off (IMPROVED)
 # =========================
 models = df["Model / Configuration"].values
 times = df["Inference Time (ms)"].values
 accs = df["Accuracy (%)"].values
 colors = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728"]
 
-plt.figure(figsize=(11, 7))
-plt.scatter(times, accs, s=220, c=colors, edgecolor="black", zorder=3)
+plt.figure(figsize=(12, 7))
+plt.scatter(times, accs, s=260, c=colors, edgecolor="black", zorder=3)
 
-for name, x, y in zip(models, times, accs):
+# Smart offsets to avoid overlap
+# Left-side points (Ensemble) get negative dx, right-side points get positive dx
+for i, (name, x, y) in enumerate(zip(models, times, accs)):
+    # Determine horizontal offset: if x > average, move left; else right
+    avg_time = np.mean(times)
+    if x > avg_time:
+        dx = -35
+        ha = "right"
+    else:
+        dx = 25
+        ha = "left"
+
+    # Vertical offset: if y > avg, move down; else up
+    avg_acc = np.mean(accs)
+    if y > avg_acc:
+        dy = -0.08
+        va = "top"
+    else:
+        dy = 0.08
+        va = "bottom"
+
+    # Special tweaks for clarity
+    if "ResNet" in name:
+        dy = 0.08
+        va = "bottom"
+    if "DenseNet" in name:
+        dy = -0.08
+        va = "top"
+    if "Ensemble + τ" in name:
+        dy = 0.12
+        va = "bottom"
+
     plt.annotate(
         f"{name}\n({y:.2f}%, {x:.0f} ms)",
         (x, y),
-        xytext=(-85, 12),
+        xytext=(dx, dy),
         textcoords="offset points",
         fontsize=12,
-        ha="right",
-        va="bottom"
+        ha=ha,
+        va=va,
+        bbox=dict(boxstyle="round,pad=0.3", facecolor="white", alpha=0.9, edgecolor=colors[i])
     )
 
 plt.xlabel("Inference Time (ms)", fontsize=14)
 plt.ylabel("Accuracy (%)", fontsize=14)
-plt.title("Accuracy vs Inference Time Trade-off", fontsize=18)
+plt.title("Accuracy vs Inference Time Trade-off", fontsize=18, weight="bold")
 
-plt.xlim(min(times) - 250, max(times) + 250)
-plt.ylim(min(accs) - 0.25, max(accs) + 0.25)
+# Adjust limits to give breathing room
+plt.xlim(min(times) - 300, max(times) + 300)
+plt.ylim(min(accs) - 0.3, max(accs) + 0.3)
+
 plt.grid(True, alpha=0.3)
 plt.tight_layout()
-plt.savefig("accuracy_inference_tradeoff.png", dpi=300)
+plt.savefig("accuracy_inference_tradeoff_final.png", dpi=300, bbox_inches="tight", pad_inches=0.6)
 plt.close()
 
 # =========================
@@ -273,5 +307,5 @@ print("  - cm_densenet.png")
 print("  - cm_ensemble.png")
 print("  - cm_ensemble_tau.png")
 print("  - performance_metrics_table.png")
-print("  - accuracy_inference_tradeoff.png")
+print("  - accuracy_inference_tradeoff_final.png")
 print("  - precision_recall_curve.png")
