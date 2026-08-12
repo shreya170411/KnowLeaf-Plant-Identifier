@@ -115,7 +115,7 @@ KnowLeaf-Plant-Identifier/
 │
 └── figures/                             # Evaluation visualisations
     ├── performance_metrics_table.png
-    ├── accuracy_inference_tradeoff.png
+    ├── accuracy_inference_tradeoff_final.png
     ├── precision_recall_curve.png
     ├── cm_resnet.png
     ├── cm_densenet.png
