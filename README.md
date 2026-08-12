@@ -27,7 +27,7 @@ The dataset contains **4,558 curated, background‑removed images** across **239
 | **Validation** | 456 | 456 | **912** |
 | **Total** | **2,279** | **2,279** | **4,558** |
 
-> 📥 **Download the processed dataset**: [KnowLeaf – Edible and Poisonous Plant Images](https://www.kaggle.com/datasets/YOUR_KAGGLE_USERNAME/knowleaf-processed-plant-dataset) 
+> 📥 **Download the processed dataset**: [KnowLeaf – Edible and Poisonous Plant Images](https://www.kaggle.com/datasets/shreya171104/edible-and-poisonous-plant-images-processed)
 
 ---
 
